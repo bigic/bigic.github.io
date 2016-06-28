@@ -166,7 +166,7 @@ footer{
 #headerimage h2 {top:-100px;}
 #ajaxContent{width:60%;}
 .About{font-size:15px;}
-#headertext{top:-100px;} 
+#headertext{position:absolute; top: 0%;} 
 }
 
 @media screen and (max-width : 1500px){
