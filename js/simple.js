@@ -27,14 +27,12 @@ $(function(){
 	//alert($(window).width());
 	
 	$("#alarms").on('click', function(evt){
-		evt.preventDefault();
-		var Headertextposition = $('#headertext').offset();
+		evt.preventDefault();	
 		$("#gallerychoose").hide();
 		$("#mainpagedate").hide();
 		$("#BlogNote").hide();
 		$('#ajaxContent').load('html_content/Calls.html');
-		$('#headertext').offset({top:Headertextposition.top})
-		
+	
 	});
 
 	$("#infoME").on('click', function(evt){
