@@ -28,10 +28,13 @@ $(function(){
 	
 	$("#alarms").on('click', function(evt){
 		evt.preventDefault();
+		var Headertextposition = $('#headertext').offset();
 		$("#gallerychoose").hide();
 		$("#mainpagedate").hide();
 		$("#BlogNote").hide();
-		$('#ajaxContent').load('html_content/Calls.html');		
+		$('#ajaxContent').load('html_content/Calls.html');
+		$('#headertext').offset({top:Headertextposition.top})
+		
 	});
 
 	$("#infoME").on('click', function(evt){
