@@ -4,6 +4,8 @@ $(function(){
 		evt.preventDefault();
 		$('#ajaxContent').load('/html_content/empty.html');
 		$("#gallerychoose").show();
+		$("#mainpagedate").show();
+		$("#BlogNote").show();
 	});	
 
 });

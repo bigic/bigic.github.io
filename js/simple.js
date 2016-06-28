@@ -29,12 +29,16 @@ $(function(){
 	$("#alarms").on('click', function(evt){
 		evt.preventDefault();
 		$("#gallerychoose").hide();
+		$("#mainpagedate").hide();
+		$("#BlogNote").hide();
 		$('#ajaxContent').load('html_content/Calls.html');		
 	});
 
 	$("#infoME").on('click', function(evt){
 		evt.preventDefault();
 		$("#gallerychoose").hide();
+		$("#mainpagedate").hide();
+		$("#BlogNote").hide();
 		$('#ajaxContent').load('html_content/info.html');		
 	});	
 	
