@@ -165,7 +165,8 @@ footer{
 /* define mobile specific styles come here */
 #headerimage h2 {top:-100px;}
 #ajaxContent{width:60%;}
-.About{font-size:15px;} 
+.About{font-size:15px;}
+#headertext{top:-100px;} 
 }
 
 @media screen and (max-width : 1500px){
