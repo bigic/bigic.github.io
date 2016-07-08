@@ -1,8 +1,10 @@
 $(function(){
-
-		$(".backtab").on('click', function(evt){
+	
+	$('#ajaxContent').hide();
+	
+	$(".backtab").on('click', function(evt){
 		evt.preventDefault();
-		$('#ajaxContent').load('/html_content/empty.html');
+		$('#ajaxContent').hide();
 		$("#gallerychoose").show();
 		$("#mainpagedate").show();
 		$("#BlogNote").show();

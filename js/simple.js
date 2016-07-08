@@ -24,14 +24,21 @@ $(function(){
       }
    };
 	
-	//alert($(window).width());
+	setTimeout(function(){
+        $('body').addClass('loaded');
+    }, 1000);
+
+	$('#ajaxContent').append($('<div id="AlarmCalls"></div>').load('html_content/Calls.html'));
+	$('#ajaxContent').append($('<div id="MyInfo"></div>').load('html_content/info.html'));
 	
 	$("#alarms").on('click', function(evt){
 		evt.preventDefault();	
 		$("#gallerychoose").hide();
 		$("#mainpagedate").hide();
 		$("#BlogNote").hide();
-		$('#ajaxContent').load('html_content/Calls.html');
+		$('#ajaxContent').show();
+		$('#AlarmCalls').siblings().hide();
+		$('#AlarmCalls').show();
 	
 	});
 
@@ -40,7 +47,9 @@ $(function(){
 		$("#gallerychoose").hide();
 		$("#mainpagedate").hide();
 		$("#BlogNote").hide();
-		$('#ajaxContent').load('html_content/info.html');		
+		$('#ajaxContent').show();
+		$('#MyInfo').siblings().hide();
+		$('#MyInfo').show();
 	});	
 	
 });
