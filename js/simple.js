@@ -26,7 +26,7 @@ $(function(){
 	
 	setTimeout(function(){
         $('body').addClass('loaded');
-    }, 2000);
+    }, 1000);
 
 	$('#ajaxContent').append($('<div id="AlarmCalls"></div>').load('html_content/Calls.html'));
 	$('#ajaxContent').append($('<div id="MyInfo"></div>').load('html_content/info.html'));
@@ -36,9 +36,10 @@ $(function(){
 		$("#gallerychoose").hide();
 		$("#mainpagedate").hide();
 		$("#BlogNote").hide();
-		$('#ajaxContent').show();
 		$('#AlarmCalls').siblings().hide();
-		$('#AlarmCalls').show();
+		$('#AlarmCalls').show().fadeIn("1000");
+		$('#ajaxContent').fadeIn("1000");
+		$('html, body').animate({scrollTop: $("#AlarmCalls").offset().top - 250}, 200);
 	
 	});
 
@@ -47,9 +48,10 @@ $(function(){
 		$("#gallerychoose").hide();
 		$("#mainpagedate").hide();
 		$("#BlogNote").hide();
-		$('#ajaxContent').show();
 		$('#MyInfo').siblings().hide();
-		$('#MyInfo').show();
+		$('#MyInfo').show().fadeIn("1000");
+		$('#ajaxContent').fadeIn("1000");
+		$('html, body').animate({scrollTop: $("#headertext").offset().top - 250}, 200);
 	});	
 	
 });
