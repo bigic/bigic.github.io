@@ -26,7 +26,7 @@ $(function(){
 	
 	setTimeout(function(){
         $('body').addClass('loaded');
-    }, 1000);
+    }, 2000);
 
 	$('#ajaxContent').append($('<div id="AlarmCalls"></div>').load('html_content/Calls.html'));
 	$('#ajaxContent').append($('<div id="MyInfo"></div>').load('html_content/info.html'));
