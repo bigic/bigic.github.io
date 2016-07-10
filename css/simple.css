@@ -309,8 +309,8 @@ footer{
 #Contacts img{
 	margin: 5px;
 	position: relative;
-	width: 45px;
 	z-index:100;
+	display:inline;
 }
 
 @media only screen and (max-device-width: 980px) {
