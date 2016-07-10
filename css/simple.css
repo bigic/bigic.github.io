@@ -183,8 +183,7 @@
 	position: fixed;
 	top: 5%;
 	color: white;
-	font-size: 60px;
-	
+	font-size: 60px;	
 }
 
 #gallerychoose{
@@ -193,11 +192,16 @@
 	margin-bottom: 15%;
 }
 
+#chooseTopic img{
+	width:100%;
+}
+
 #gallerychoose p{
 	color: black;
 	font-size: 20px;
 	padding: 2% 2% 0% 2%;
 	font-weight: bold;
+	text-align: center;
 }
 
 .box {
