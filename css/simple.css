@@ -223,6 +223,7 @@
 
 #ajaxContent p{
 	margin-bottom: 5%;
+	min-width:180px;
 }
 
 .imgcaptions{
@@ -264,17 +265,14 @@ a{
 	padding: 0;
     margin: 0 0 3% 0;
 }
-.About{
-	border: 3px groove black;
-	padding: 3%;
-	width: 50%;
-	position: relative;
-	left:5%;
-	background-color:#e9e9e9;	
+.About p{
+	width: 100%;
+	min-width:180px;
 }
 
-.About img{
-	min-width:80px;
+.About hr{
+	border-width: 3px;
+	border-color: black
 }
 
 .lastupdate{
