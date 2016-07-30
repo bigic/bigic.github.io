@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiny brown bird</title>
+    <description>Blog all about birds.
+</description>
+    <link>http://www.tinybrownbird.com//</link>
+    <atom:link href="http://www.tinybrownbird.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 30 Jul 2016 17:11:00 +1000</pubDate>
+    <lastBuildDate>Sat, 30 Jul 2016 17:11:00 +1000</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Beautiful colors without pigments</title>
+        <description>&lt;p&gt;What do blue bird feathers and opals have in common? Neither of their beautiful colors are made by pigments. &lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-12 imgspc&quot;&gt;&lt;img src=&quot;/images/opal_peacock.jpg&quot; width=&quot;100%&quot; alt=&quot;Opal&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Colors of opals and blue bird feathers arise from their periodically arranged nanostructures. Credit: Opal - &lt;a href=&quot;https://en.wikipedia.org/wiki/Opal#/media/File:Coober_Pedy_Opal_Doublet.jpg&quot;&gt;Wikipedia&lt;/a&gt;; peacock - Steve Igic.&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Recently, I was asked to talk about my work on bird feathers, which I thought gave me a perfect opportunity to showcase how cool structural colors are. With the talk now done, I thought I’d do the same for everyone else and write a blog post about it! &lt;/p&gt;
+
+&lt;p&gt;As humans we generally make our lives colorful through our use of pigments (in the form of dyes etc.). Yet, birds and insects have adapted means for producing brighter, more durable, and dynamic colors using structural colors. So what are structural colors and how are they different from pigments?
+
+&lt;p&gt;I guess I should probably start with some basics first, like what is light and color? I’m not a physicist, nor do I study the principles of color vision, so my explanations are quite simplistic. If you know all this stuff already, feel free to skip ahead. &lt;/p&gt;
+
+&lt;div class=&quot;greybox&quot;&gt;
+
+&lt;label class=&quot;checkboxes&quot;&gt;&lt;input type=&quot;checkbox&quot; name=&quot;checkLight&quot; /&gt;&lt;span class=&quot;greentxt dropdowntitle&quot;&gt; What is light? &lt;/span&gt;&lt;/label&gt;
+
+&lt;p&gt;Light is a type of electromagnetic energy and is both a particle and wave. For our purposes here, we will just think of it like a wave, oscillating up and down, up and down. The periodicity at which the wave repeats is its wavelength and this influences the &quot;color&quot; of light. Long wavelengths correspond to red colors and short wavelengths blue colors. For example, a red material primarily reflects long wavelengths whereas a blue material primarily reflects short wavelengths. Light coming from the sun is collection of all wavelengths that are visible to our eyes, making it appear white. A prism creates its beautiful rainbow colors by separating the different wavelengths that make up white light and projecting them into different physical space. The amplitude or height of this wave affects its intensity or brightness, where taller waves mean brighter light and shallower waves mean duller light. &lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-offset-2 col-lg-8 imgspc&quot;&gt;&lt;img src=&quot;/images/princp_light.jpg&quot; width=&quot;100%&quot; alt=&quot;Principles of light&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Light from the sun is a culmination of different wavelengths, where each wavelength is characterized by its own cyclical periodicity and corresponds to a different part of the visual spectrum.&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;greybox&quot;&gt;
+
+&lt;label class=&quot;checkboxes&quot;&gt;&lt;input type=&quot;checkbox&quot; name=&quot;checkColor&quot; /&gt;&lt;span class=&quot;greentxt dropdowntitle&quot;&gt; What is color? &lt;/span&gt;&lt;/label&gt;
+&lt;div&gt;
+
+&lt;p&gt;Unlike light and its different wavelengths, color is all in our heads so to speak. Color is how our own brains see the world and is very subjective, meaning that what I see as green is likely different to what you see as green. This also means that measuring “color” is much more difficult task than measuring specific wavelengths of light, and indeed often relies on a lot of assumption about how eyes and brains work. &lt;/p&gt;
+
+&lt;p&gt;We humans see color as a result of the relative activation of three different types of photoreceptor cells in our retinas, called cone cells. These three types of cone cells vary in how they react to different wavelengths of light: One is most sensitive to red light or longer wavelengths, another one is most sensitive to green light or medium wavelengths, and the last one is most sensitive to blue light or shorter wavelengths. Looking at a red material activates most of our red cones, some of our green cones, and does not really activate our blue cones. Looking at a purple material activates our blue and red cones equally but does not really activate our green cones. A perfectly white or gray material would activate all three cone types equally. The brightness of perceived colors is influenced by how many and how intensely our cones are activated, whereas the richness or saturation of perceived colors is influenced by how much a particular type of cone cell is activated relative to the other two types: a really rich red color would only activate our red cones, whereas a washed out red color would activate some of our other cones too. Of course there are many other cells involved and other factors that affect color perception, but the above explanation is the simplest I can provide. &lt;/p&gt;
+
+&lt;p&gt;The color vision of birds is even more complex than our own. Birds have a fourth cone type that is most sensitive to ultra-violet or violet wavelengths. This means that some birds can see ultra-violet colors! The sensitivity range of their cone cells is also much narrower than that of our own cells, due to oil droplets that act like light filters, which means they are also better than us at distinguishing shades of similar colors (e.g. different shades of blue). &lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-offset-1 col-lg-10 imgspc&quot;&gt;&lt;img src=&quot;/images/princp_vision.jpg&quot; width=&quot;100%&quot; alt=&quot;Principles of color vision&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Our retinas contain 3 types of color receptor (cones) that differ in their sensitivity to different wavelengths. &lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;font size=&quot;5&quot;&gt;Read more: Vorobyev M, Osorio D, Bennett AT, Marshall NJ, Cuthill IC (1998). Tetrachromacy, oil droplets and bird plumage colours. Journal of Comparative Physiology A, 183(5), 621-633.&lt;a href=&quot;http://www.neurobiologie.fu-berlin.de/menzel/Pub_AGmenzel/VorobyevOsorio-et-al_JCompPhysiolA_1998.pdf&quot;&gt; link&lt;/a&gt;&lt;/font&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;greybox&quot;&gt;
+&lt;label class=&quot;checkboxes&quot;&gt;&lt;input type=&quot;checkbox&quot; name=&quot;checkColor&quot; /&gt;&lt;span class=&quot;greentxt dropdowntitle&quot;&gt; &lt;i&gt;Pigments&lt;/i&gt; versus &lt;i&gt;Structural colors&lt;/i&gt;&lt;/span&gt;&lt;/label&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Disclaimer: I’ve taken an overly simplistic approach in my explanation so that it can be more easily understood. &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;The coloration of animals is produced by pigments, structural colors, or their interaction. There’s also bio-luminescence, but I won’t go through what that is here. &lt;/p&gt;
+
+&lt;p&gt;Pigments produce color by selectively absorbing specific wavelengths of light, allowing other wavelengths to be reflected and to reach our eyes. For example, a red pigment absorbs all but red wavelengths of light. A strongly absorbing pigment, like melanin, absorbs across all visible wavelengths and produces a dark brown or black appearance. &lt;/p&gt;
+
+&lt;p&gt;Structural colors are not produced by chemicals compounds that absorb specific wavelengths of light, but by tiny (nano-scale) structures that interfere with light. &lt;/p&gt;
+
+&lt;p&gt;Thin-film interference is the simplest type of structural color and is responsible for producing the beautiful colors we see on soap bubbles. In the simplest sense, the colors of soap bubbles are produced when light reflected off the outer surface of the soap layer interferes with the light reflected off the inner surface of the soap layer. Different colors are produced when the thickness of the soap film varies across different regions of the bubble, and also when we look at the bubble from different angles. In both cases, we see different colors because light travels at different distances before being reflected off the inner surface of the soap film. &lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-offset-4 col-lg-4 imgspc&quot;&gt;&lt;img src=&quot;/images/soap bubble.jpg&quot; width=&quot;100%&quot; alt=&quot;Soap bubble&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;A soap bubble&#39;s colors are produced by thin-film interference. Credit: &lt;a href=&quot;https://en.wikipedia.org/wiki/Soap_bubble#/media/File:Reflection_in_a_soap_bubble_edit.jpg&quot;&gt;Wikipedia&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+
+
+&lt;p&gt;In addition to how materials reflect light, structural colors are affected by how materials refract light. As a ray of light travels through mediums that differ in their density, its velocity changes and  
+it becomes bent(this is called refraction). We measure a medium’s ability to refract light as its refractive index. Air is not a very dense medium and does not really affect the velocity of light, so it has a refractive index of approximately 1. Liquid soap is denser than air and slows down the velocity of light that travels through it causing it to bend. Liquid soap has a refractive of approximately 1.5. The degree of refraction, or bending of light, also depends on the wavelength of light: shorter wavelengths, like blues and ultra-violets, are bent more than longer wavelength, like yellows and reds. The different ways in which different wavelengths of light are refracted is why prisms split white light into separate colors. When ever light hits and interface between two mediums that vary in their refractive index, part of it will be reflected and part of it will transmit through into the next medium.&lt;/p&gt;
+
+&lt;p&gt;As light moves from a medium of low refractive index (such as air) to a medium of higher refractive index (such as our soap film), the reflected light also becomes phase-shifted, meaning it is brought forwards or backwards in its cyclical periodicity. That means that the light reflecting off the surface of the soap bubble (light moving from air-&amp;gt;soap)is phase-shifted but the light reflecting off the inner surface is not (light moving from soap-&amp;gt;air). However, the light ray that is reflected off the inner surface of the soap bubble travels a slightly greater distance than the light ray reflected, which means their respective wavelengths may be in- or out-of-phase with each other. In simple terms, the peaks and valleys of the same wavelength of the two reflected light rays will either be in-sync (in-phase) or out-of-sync (out-of-phase) with each other. &lt;/p&gt;
+
+&lt;p&gt;If the waves of the two reflections are in-sync, they will reinforce each other and cause that particular wavelength of reflected light to be amplified; this is called &lt;strong&gt;constructive interference&lt;/strong&gt;. If the waves of the two reflections are out-of-sync, then they will cancel each other out and cause that particular wavelength to be diminished; this is called &lt;strong&gt;destructive interference&lt;/strong&gt;. It is the combination of wavelength specific constructive and destructive interference that causes particular colors to been seen at different regions of soap bubbles (due to thickness differences of the soap) and also when we look at the bubble from different angles. &lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-offset-1 col-lg-10 imgspc&quot;&gt;&lt;img src=&quot;/images/cons_destr_interference.jpg&quot; width=&quot;100%&quot; alt=&quot;Soap bubble&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Light reflected off the inner surface of the soap layer will interfere with light reflected off the outer surface, either constructively or destructively.&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This simple concept is similarly applicable when trying to understand the production of colors by more complex structures, such structures that are periodically arranged in 1, 2 or 3 dimensions. &lt;/p&gt;
+
+&lt;p&gt;As a general rule, some degree organization of repeated elements is required for nanostructures to produce color. This nanostructural organization may be highly periodic or only semi-periodic (referred to as quasi-order in science lingo). Highly periodic structures have what we call short-range and long-range order, meaning that the spaces between repeated elements is very consistent throughout the whole structure. These highly ordered structures produce iridescent colors. Quasi-ordered structures only have short-range order, meaning that only spaces between the closest repeated elements are consistent, and there is little spacial consistency between elements further apart. These quasi-ordered structures produce non- or weakly iridescent colors. &lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-offset-1 col-lg-10 imgspc&quot;&gt;
+&lt;img src=&quot;/images/iri vs non.jpg&quot; width=&quot;100%&quot; alt=&quot;Periodic vs. semi-periodic structures&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Repeated elements (illustrated as black circles here) can be arranged very periodically to produce iridescent colors or semi-periodically to produce non-iridescent colors.&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br /&gt;
+
+&lt;div class=&quot;brwntxt&quot;&gt;What makes bird feathers colorful?&lt;/div&gt;
+
+&lt;p&gt;Compared to the hairs of mammals, bird feathers are very complex structures. They have tiny branches (barbules) that branch off slightly larger branches (barbs) that themselves branch off a main larger stem (a rachis). This complexity is further compounded by the fact that they are extremely diverse among different body parts of a bird (the feathers on birds head and wings are very different) and especially among different species. One commonality is that all bird feather are made of β-keratin, a colorless protein that is similar to the protein that makes our own skin, nails, and hair. They can also contain pigments and tiny air pockets. &lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-offset-3 col-lg-6 imgspc&quot;&gt;
+&lt;img src=&quot;/images/Feather close up.jpg&quot; width=&quot;100%&quot; alt=&quot;White feather&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Close-up of a white bird feather showing its branching structure.&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Bird feather colors are produced by pigments, structural colors, or a combination of both pigments and structural colors.&lt;/p&gt;
+
+&lt;p&gt;A number of different pigments have been discovered in bird feathers, but the pigments most often present are either &lt;strong&gt;carotenoids&lt;/strong&gt; or &lt;strong&gt;melanins&lt;/strong&gt;. Carotenoids are the same pigments that give fruits and vegetables their color, whereas melanins are the same pigments that color our skin and hair. Carotenoids produce the red and yellow coloration of feathers and are acquired from a bird&#39;s diet.Melanins produce the rufous, gray, brown and black feather colors and are made by a bird&#39;s cells. Pigments are often deposited as granules within bird feathers, and in the case of melanins, they are deposited into nano-sized structures (or organelles) called &lt;strong&gt;melanosomes&lt;/strong&gt;. As we’ll discuss below, despite containing pigment, melanosomes are one of the main components of structural color production in bird feathers (well, in most cases anyway).&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-offset-2 col-lg-8 imgspc&quot;&gt;
+&lt;img src=&quot;/images/black_black-billed magpie x7000_e.jpg&quot; width=&quot;100%&quot; alt=&quot;Melanosome&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;A close-up of elongate melanosomes present inside the barb of a Black Billed Magpie feather.&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As with pigments, structural colors are also common in bird feathers. Structurally colored bird feathers can be either &lt;strong&gt;iridescent&lt;/strong&gt; or &lt;strong&gt;non-iridescent&lt;/strong&gt;. Iridescent feather colors change when they are viewed from different angles under natural light conditions and non-iridescent colors remain constant no matter which angle they are observed from under natural light conditions, similarly to colors produced by pigments. &lt;/p&gt;
+
+&lt;p&gt;Pigments and structural colors can also be present together to produce specific colors. Most non-iridescent green feather colors are produced by a mixture of blue non-iridescent structural colors and yellow pigments, similarly to how blue and yellow paint makes green paint. An exception to this is &lt;a href=&quot;https://en.wikipedia.org/wiki/Turacoverdin&quot;&gt;turacoverdin&lt;/a&gt;, a rare pigment that produces green coloration without a structural component. &lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-offset-4 col-lg-4 imgspc&quot;&gt;
+&lt;img src=&quot;/images/Melopsittacus_undulatus.jpg&quot; width=&quot;100%&quot; alt=&quot;Budgerigar&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Feather colors of Budgerigars are produced by pigments (yellow), structural colors (blue), or a combination of pigments and structural colors (green). Credit: &lt;a href=&quot;https://en.wikipedia.org/wiki/Biological_pigment#/media/File:Melopsittacus_undulatus.jpg&quot;&gt;Wikipedia&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;brwntxt&quot;&gt;Iridescent and non-iridescent feather structural colors are produced differently &lt;/div&gt;
+
+&lt;p&gt;Iridescent and non-iridescent structural colors of feathers are produced differently. &lt;strong&gt;Iridescent colors are produced by very organized arrangements of melanosomes within feather barbules, whereas non-iridescent colors are produced by semi-organized air pockets within feather barbs &lt;/strong&gt;. Furthermore, iridescent feathers colors can span the full spectrum of bird visible colors (from red to ultra-violet), whereas non-iridescent structural colors usually produce only blue and ultra-violet colors (perhaps also some pink and purple colors too).Although non-iridescent color are produced by the tiny air pockets in feather barbs, they still require the presence of melanosomes on a barbs underside to produce visible color. This is why virtually all blue bird feathers have a black underside. &lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-6 imgspc&quot;&gt;
+&lt;img src=&quot;/images/ordered and disordered melanosomes.jpg&quot; width=&quot;100%&quot; alt=&quot;Melanosomes arranged within barbules&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;The difference between glossy black feathers (left) and iridescent black feathers (right) is a high degree of melanosome (dark spots) organization within barbules of iridescent feathers. Image of barbules sections from &lt;a href=&quot;http://rspb.royalsocietypublishing.org/content/278/1714/1973&quot;&gt; Maia et al. 2011&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-lg-6 imgspc&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;img src=&quot;/images/hollow melanosome.jpg&quot; width=&quot;100%&quot; alt=&quot;Hollow melanosomes&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Some birds like hummingbirds contain melanosomes with tiny air pockets that increase the brightness of iridescent colors. Image of a barbule section from &lt;a href=&quot;http://rsif.royalsocietypublishing.org/content/6/Suppl_2/S221.short&quot;&gt; Shawkey et al. 2009&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;img src=&quot;/images/spongy blue.jpg&quot; width=&quot;100%&quot; alt=&quot;Spongy blue structures&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Non-iridescent blue feather colors are produced by the semi-periodic arrangement of air pockets within a feather&#39;s barbs. Images of barb sections from &lt;a href=&quot;http://rsif.royalsocietypublishing.org/content/early/2012/05/02/rsif.2012.0191.full&quot;&gt; Saranathan et al. 2012&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Iridescent colors are very directional signals, meaning that color is only seen from particular angles or that specific colors are seen from specific angles; it is this directionality that is advantageous and important for function. Iridescence may allow an individual to direct their bright color signals only towards their intended audience and minimize the chance that a predator sees it. Alternatively, it may be the bright and flashy color changes that are appealing to a prospective mate or are better at capturing their attention. Non-iridescent color is a signal have been selected for unidirectional signaling, so that the same color can be seen from all possible angles. This makes these color signals more easily detected from a greater range of directions. &lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3DiY_WXAwiQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-lg-offset-3 col-lg-6&quot;&gt;&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Iridescence of the above hummingbird is highly directional, where color are bright and conspicuous from certain angles and dark otherwise. This effect is achieved through the combination of a flat color-producing barbules and presence of melanin to absorb multiply scattered light.&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;br /&gt;
+
+&lt;p&gt;The directionality of iridescent colors is best achieved when the material producing them is a flat uniform plane, the underlying nanostructures responsible for color production are highly ordered, and the colors resulting from any disorder present are minimized.There are several potential reasons that I can suggest as to why iridescent and non-iridescent colors may be produced by different structures.&lt;/p&gt;
+
+ &lt;p&gt;1. Due to their interlocking mechanism, barbules can make a flat uniform plane -- just think of feather’s vane structure, which is produced by the interlocking of barbules. In turn, this increases the directionality of iridescence effects. By contrast, barbs are often roundish and are too sparsely situated to make a flat uniform plane. However, this roundness makes them ideal for creating non-iridescent colors: a round object appears more uniform when observed from different angles than does a flat plane. Some birds have, however, adapted flatter barbs to achieve similar iridescent effects.&lt;/p&gt;
+ 
+ &lt;p&gt;2. For color change to be visible under natural conditions, the underlying nanostructures needs to be highly organized. It may be physiologically quite difficult for the feather&#39;s cells to make such highly organized matrices of air and keratin as they dry out during feather development. Organizing melanosomes may be easier. This is an interesting idea to test.&lt;/p&gt;
+
+ &lt;p&gt;3. For a semi-organized nanostructure to be able to produce visible color, the whole material may be required to be of sufficient thickness. Barbules may simply be too thin to contain enough of the tiny air gaps that are necessary for production of non-iridescent color.
+ 
+ &lt;p&gt;4. Perfectly ordered structures are almost impossible to make (even with melanosomes). This means that there will always be presence of some disorder that in turn washes out the color being produced. In physics terms, this washing out is due to incoherent scattering of light -- when incoherent light is dominant, a material appears white. The advantage of using melanosomes as the periodically repeated elements when producing iridescent colors is that they also act like pigments, absorbing scattered light to make produced colors appear richer. Melanosomes are also why iridescent feathers often appear dark when looked at from particular angles (as in the hummingbird video above). However, if birds were to use semi-organized melanosome arrangements to produce non-iridescent, the melanosomes would probably absorb too much light to allow any color to be produced. Instead, when producing non-iridescent colors, bird include enough melanosomes on the underside of their feathers to act as a black backing and make colors richer, but not too much absorb all color that is produced.&lt;/p&gt;
+
+&lt;div class=&quot;brwntxt&quot;&gt;Bird feather colors - a door to biomimicry&lt;/div&gt;
+
+&lt;p&gt; No one can dispute that bird feather are extremely beautiful. Their beautiful colors and patterns have been admired for millennia. As of late, there has been a lot research interest into how feather structural color can be replicated to manufacture durable and bright colors and dyes. Benefits of using structural colors is that they are ore resistance to UV damage than pigments and their production may be more environmentally friendly. Their color can also be more easily adjusted than that of pigments and their dynamic changes in coloration may also be of particular benefit from an engineering stand-point. For example, some colleagues of mine have shown that polymers of artificial melanosomes can be used to make color-based humidity sensors &lt;a href=&quot;https://www.dropbox.com/s/8yn0f7xc1tq7auq/humidity_melanin.pdf?dl=0&quot;&gt;link.&lt;/a&gt;.
+
+&lt;div class=&quot;brwntxt&quot;&gt;Read more:&lt;/div&gt;
+
+&lt;ul class=&quot;references&quot;&gt;D’Alba L, Kieffer L, Shawkey MD (2012). Relative contributions of pigments and biophotonic nanostructures to natural color production: a case study in budgerigar (&lt;i&gt;Melopsittacus undulatus&lt;/i&gt;) feathers. Journal of Experimental Biology, 215(8), 1272-1277. &lt;a href=&quot;http://jeb.biologists.org/content/jexbio/215/8/1272.full.pdf&quot;&gt;link&lt;/a&gt;&lt;/ul&gt;
+
+&lt;ul class=&quot;references&quot;&gt;Maia R, D&#39;Alba L, Shawkey MD (2010). What makes a feather shine? A nanostructural basis for glossy black colours in feathers. Proceedings of the Royal Society of London B: Biological Sciences, rspb20101637.&lt;a href=&quot;http://rspb.royalsocietypublishing.org/content/early/2010/11/30/rspb.2010.1637.short&quot;&gt;link&lt;/a&gt;&lt;/ul&gt;
+
+&lt;ul class=&quot;references&quot;&gt;Saranathan V, Forster JD, Noh H, Liew SF, Mochrie SG, Cao H, Dufresne ER, Prum RO. (2012). Structure and optical function of amorphous photonic nanostructures from avian feather barbs: a comparative small angle X-ray scattering (SAXS) analysis of 230 bird species. Journal of The Royal Society Interface, rsif20120191. &lt;a href=&quot;http://rsif.royalsocietypublishing.org/content/early/2012/05/02/rsif.2012.0191.full&quot;&gt;link&lt;/a&gt;&lt;/ul&gt;
+
+&lt;ul class=&quot;references&quot;&gt;Stavenga DG, Tinbergen J, Leertouwer HL, Wilts BD (2011). Kingfisher feathers–colouration by pigments, spongy nanostructures and thin films. Journal of Experimental Biology, 214(23), 3960-3967. &lt;a href=&quot;http://jeb.biologists.org/content/214/23/3960.long&quot;&gt;link&lt;/a&gt;&lt;/ul&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jul 2016 12:56:24 +1000</pubDate>
+        <link>http://www.tinybrownbird.com//2016/07/30/Color-without-pigments.html</link>
+        <guid isPermaLink="true">http://www.tinybrownbird.com//2016/07/30/Color-without-pigments.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Birds communicate about danger</title>
+        <description>&lt;p&gt;If I asked you “&lt;i&gt;what sounds do birds make? &lt;/i&gt;”, I bet the first sounds that come to mind are their beautiful songs. However, birds not only sing, but have a variety of different calls too.&lt;/p&gt;
+
+&lt;p&gt;Birds use calls to tell other birds about things that are happening around them. For example, calls can tell other birds that there is food or a predator nearby or keep them informed about where the caller is and where they are going.&lt;/p&gt;
+
+&lt;p&gt;Communicating about predators is very beneficial to survival. Not only does it warn kin about nearby danger and help keep them safe, but it can provoke nearby birds to harass or attack predators till they move on and become less of a threat. It may also tell the predator that its been spotted, so any ambush attempts would be pointless. The calls that birds use to warn other birds about predators are collectively called &lt;strong&gt;alarm calls&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Alarm calls come in a variety of types and different alarm calls can communicate different types of information. For example, particular calls can communicate the type of predator present, the level of danger it poses, whether it’s moving, and even its size. Intriguingly, some bird species only appear to have a single type of alarm call that they use towards all predators and threats (a general alarm call), whereas others species appear to lack alarm calls altogether. We don’t yet know why bird species differ in the types of alarm calls they use, but may have something to do with how closely they associate with kin.&lt;/p&gt;
+
+&lt;p&gt;Bird alarm calls can often be grouped into two broad categories. &lt;strong&gt;Aerial alarm calls&lt;/strong&gt; are used towards aerial threats, such as predatory birds in flight. These calls provoke other birds to either scan the sky to locate the predator or to flee into bushes and trees to stay hidden. &lt;strong&gt;Mobbing alarm calls&lt;/strong&gt; are used towards ground predators like snakes and foxes, but also perched predatory birds. These calls usually provoke other birds to seek out and inspect the location of danger, and if they see a predator, they may begin to harass or attack it.&lt;/p&gt;
+
+&lt;p&gt;Some bird species have very complex alarm communication systems, such as the Japanese great tit. Japanese great tits are small birds that build their nests in tree cavities or human-made nest boxes. Their nestlings are vulnerable to a range of different predators, including crows, snakes, and martens (weasel-like mammals). When there is a predator near their nest, great tit parents use different alarm calls, or adjust how frequently they call, depending on the type of predator present. For example, they give ‘chika’ calls if a crow is nearby and ‘jar’ calls if a snake is nearby. In turn, their nestlings respond differently when they hear particular calls, crouching when they hear ‘chika’ calls and jumping out of the nest when they hear ‘jar’ calls.&lt;/p&gt;
+
+&lt;div class=&quot;container-fluid&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-6 imgspc&quot;&gt;&lt;img src=&quot;/images/Greattit_crow.jpg&quot; width=&quot;100%&quot; alt=&quot;Japanese great tit&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-lg-6 imgspc&quot;&gt;&lt;img src=&quot;/images/Greattit_snake.jpg&quot; width=&quot;100%&quot; alt=&quot;Japanese great tit&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-lg-offset-3 col-lg-6 imgspc&quot;&gt;&lt;img src=&quot;/images/Greattit_marten.jpg&quot; width=&quot;100%&quot; alt=&quot;Japanese great tit&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-12&quot;&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Japanese great tits use different alarm calls to different predators&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;An interesting phenomenon is that birds not only understand and respond to alarm calls of their own species, but often recognize and respond to alarm calls of other species with which they share predators in common. This behaviour is a type of &lt;strong&gt;eavesdropping&lt;/strong&gt; as other species are often not the intended audience of a caller’s alarms. Eavesdropping on other species’ alarm calls is widespread in nature and not just common to birds. For example, monkeys have been found to listen in on alarm calls of other monkey species and birds. Even a species of lizard has even been found to respond to alarm calls of a bird.&lt;/p&gt;
+
+&lt;p&gt;But how do birds recognize the alarm calls of other species? There are two prevailing ideas and both are supported by scientific evidence. The first idea is that &lt;strong&gt;different species’ alarm calls sound similar to each other&lt;/strong&gt;, or share particular features such as being high pitched, and therefore can be easily recognized. Although there is evidence that this is the case in some circumstances, alarm calls of different species often sound quite different from one another, and birds may not respond to another species’ alarm call if they are unfamiliar with that species or its calls. The second idea is that &lt;strong&gt;birds learn to recognize alarm calls of other species&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;My colleagues and I tested this second idea using small Australian birds called superb fairy-wrens as our test subjects. Fairy-wrens are small birds that usually feed on the ground and in the open. They are very good at recognizing and responding to familiar species’ alarm calls as well as unfamiliar species’ alarm calls if those said alarms sound similar to a fairy-wren alarm. We conducted an experiment to test if we could teach fairy-wrens to recognize “new” types of alarm calls. In our experiment, we designed and broadcast two “new” types of alarm calls to wild fairy-wrens. Each “new” alarm call was broadcast either in combination with a fake gliding sparrow-hawk or alone. Although fairy-wrens initially ignored both calls, after hearing either type of call broadcast in combination with our gliding hawk a few times, they began treating the call like an aerial alarm call. On the other hand, they ignored the call that was not broadcast together with a gliding hawk, showing they had learnt to recognize the “new” alarm call by associating it with the hawk.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-offset-2 col-lg-8 imgspc&quot;&gt;&lt;img src=&quot;/images/Male FW.jpg&quot; width=&quot;100%&quot; alt=&quot;Fairywren&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-12&quot;&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;A male superb fairy-wren looks out for an aerial predator. Photo credit: Jessica McLachlan.&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;brwntxt&quot;&gt;&lt;i&gt;
+Why should we care about bird calls or eavesdropping?
+&lt;/i&gt;&lt;/div&gt;
+
+&lt;p&gt;This can be a tough question to answer when asked by someone with no interest in the natural world, and is at heart of explaining why basic science and documenting natural history are important. On one hand, one can argue that it is fundamentally important to know everything we can about the world around us and the mysteries and complexities it holds. If you’ve ever watched a David Attenborough documentary, you probably understand that simply by observing and learning about nature, we come to appreciate it more. On another level, figuring out how and why animals communicate can help us understand how complex communication systems evolve, and in some way brings us closer to understanding why we as humans have evolved the most complex vocal communication system of all living animals. We also can never know whether basic scientific discoveries have potential future applications. For example, the knowledge we have gained from uncovering how birds recognize other species alarm calls can be used to help teach endangered and captive-bred species to recognize the alarm calls of other species at their release sites, thereby boosting their chances of survival in the wild.&lt;/p&gt;
+
+&lt;div class=&quot;brwntxt&quot;&gt;Read more:&lt;/div&gt;
+&lt;ul class=&quot;references&quot;&gt;Suzuki TN (2011). Parental alarm calls warn nestlings about different predatory threats. Current Biology, 21(1), R15-R16.&lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0960982210014521&quot; target=&quot;_blank&quot;&gt; link&lt;/a&gt;&lt;/ul&gt;
+
+&lt;ul class=&quot;references&quot;&gt;Suzuki TN (2014). Communication about predator type by a bird using discrete, graded and combinatorial variation in alarm calls. Animal Behaviour, 87, 59-65.&lt;a href=&quot;https://www.researchgate.net/profile/Toshitaka_Suzuki2/publication/259084605_Communication_about_predator_type_by_a_bird_using_discrete_graded_and_combinatorial_variation_in_alarm_calls/links/5481cd000cf2941f830a01a1.pdf&quot; target=&quot;_blank&quot;&gt; link&lt;/a&gt;&lt;/ul&gt;
+
+&lt;ul class=&quot;references&quot;&gt;Fallow PM, Gardner JL, Magrath RD (2011). Sound familiar? Acoustic similarity provokes responses to unfamiliar heterospecific alarm calls. Behavioral Ecology, 22(2), 401-410.&lt;a href=&quot;http://beheco.oxfordjournals.org/content/22/2/401.full&quot; target=&quot;_blank&quot;&gt; link&lt;/a&gt;&lt;/ul&gt;
+
+&lt;ul class=&quot;references&quot;&gt;Magrath RD, Haff TM, McLachlan JR, Igic B (2015). Wild birds learn to eavesdrop on heterospecific alarm calls. Current Biology, 25(15), 2047-2050.&lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0960982215007228&quot; target=&quot;_blank&quot;&gt; link&lt;/a&gt;&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 29 Jun 2016 17:56:24 +1000</pubDate>
+        <link>http://www.tinybrownbird.com//2016/06/29/Birds-communicate-about-danger-Copy.html</link>
+        <guid isPermaLink="true">http://www.tinybrownbird.com//2016/06/29/Birds-communicate-about-danger-Copy.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
