@@ -263,11 +263,11 @@ footer{
 
 @media only screen and (max-device-width: 980px) {
 /* define mobile specific styles come here */
-#headerimage h2 {top:-100px;}
 .About{font-size:15px;}
 .page-content p, .brwntxt, .greentxt {font-size:18px;}
 .post-title{font-size:20px;}
 .post-meta{font-size:15px;}
+.post-hometab{font-size: 18px;}
 }
 
 
