@@ -4,10 +4,6 @@ title:
 permalink: /about/
 ---
 
- 
- <div class="backtab"><a href="/">Home</a></div>
-
-
 <p>Welcome!</p>
 
 <p>
@@ -27,21 +23,40 @@ This blog is celebration of the wonder of birds, especially those "boring" commo
 
 <div class="About">
 <hr>
+<div class="col-lg-5">
 <img  class="img-thumbnail" src="/images/Me.jpg" width="300px" alt="Brani"/>
-<br>
-<br>
+</div>
+
+<div>
 <p>
-I'm an evolutionary ecologist by day and spend my nights drawing, playing boardgames, and learning new things.
+I'm an evolutionary ecologist that studies brid for a living.
 </p>
 
 <p>
-I've been making this website from scratch, so it's a work in progress.
+This website is a work in progress and is updated regularly.
 </p>
 
 <p>
 Please don't hesitate to email me if you have any questions about this blog or my research. If you would like to use any of the images, I can also put you in contact with their owners.
 </p>
+</div>
+<br>
+
+<hr>
 
 <br>
+
+<div class="container-fluid">
+
+<div class="row">
+<div id="github_jekylltext">Powered by</div>
+</div>
+<div class="row">
+<div class="col-lg-offset-2 col-lg-4"><a href="https://github.com/"><img  src="/images/Octocat.png" width="100%" alt="Github"/></a></div>
+<div class="col-lg-4"><a href="https://jekyllrb.com/"><img  src="/images/jekyll.png" width="100%" alt="Jekyll"/></a></div>
+</div>
+
+</div>
+
 </div>
 

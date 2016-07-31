@@ -20,9 +20,9 @@ Some bird species have very complex alarm communication systems, such as the Jap
 		
 <div class="container-fluid">
 <div class="row">
-<div class="col-lg-6 imgspc"><img  src="/images/Greattit_crow.jpg" width="100%" alt="Japanese great tit"/></div>
-<div class="col-lg-6 imgspc"><img  src="/images/Greattit_snake.jpg" width="100%" alt="Japanese great tit"/></div>
-<div class="col-lg-offset-3 col-lg-6 imgspc"><img  src="/images/Greattit_marten.jpg" width="100%" alt="Japanese great tit"/></div>
+<div class="col-lg-6 imgspc"><img  src="/images/Greattit_crow.jpg" width="600px" alt="Japanese great tit"/></div>
+<div class="col-lg-6 imgspc"><img  src="/images/Greattit_snake.jpg" width="600px" alt="Japanese great tit"/></div>
+<div class="col-lg-offset-3 col-lg-6 imgspc"><img  src="/images/Greattit_marten.jpg" width="600px" alt="Japanese great tit"/></div>
 </div>
 <div class="col-lg-12">
 <p class="imgcaptions text-center"><i>Japanese great tits use different alarm calls to different predators</i></p>
@@ -36,7 +36,7 @@ But how do birds recognize the alarm calls of other species? There are two preva
 My colleagues and I tested this second idea using small Australian birds called superb fairy-wrens as our test subjects. Fairy-wrens are small birds that usually feed on the ground and in the open. They are very good at recognizing and responding to familiar species' alarm calls as well as unfamiliar species' alarm calls if those said alarms sound similar to a fairy-wren alarm. We conducted an experiment to test if we could teach fairy-wrens to recognize “new” types of alarm calls. In our experiment, we designed and broadcast two “new” types of alarm calls to wild fairy-wrens. Each “new” alarm call was broadcast either in combination with a fake gliding sparrow-hawk or alone. Although fairy-wrens initially ignored both calls, after hearing either type of call broadcast in combination with our gliding hawk a few times, they began treating the call like an aerial alarm call. On the other hand, they ignored the call that was not broadcast together with a gliding hawk, showing they had learnt to recognize the "new" alarm call by associating it with the hawk. 
 		
 <div class="row">
-<div class="col-lg-offset-2 col-lg-8 imgspc"><img  src="/images/Male FW.jpg" width="100%" alt="Fairywren"/></div>
+<div class="col-lg-offset-2 col-lg-8 imgspc"><img  src="/images/Male FW.jpg" width="600px" alt="Fairywren"/></div>
 </div>
 <div class="row">
 <div class="col-lg-12">

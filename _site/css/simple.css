@@ -31,6 +31,16 @@
 	z-index:100;	
 }
 
+.post-hometab{
+	font-size:40px;
+	background-color:black;
+	text-align:right;
+	padding-right: 3%;
+}
+
+.post-hometab a{
+	color:white;
+}
 
 .post-list{
 	list-style: none;
@@ -45,6 +55,10 @@
 	color: black;
 	font-weight:bold;
 	
+}
+
+.post img{
+	width:100%;
 }
 
 .post-meta{
@@ -156,23 +170,8 @@ iframe {
 	 
 }
 
-.backtab a{
-	position: fixed;
-	right: 5%;
-	bottom: 5%;
-	color: black;
-	border-radius: 10px 10px 10px 10px;
-	padding: 5px;
-	border: 3px solid black;
-	z-index:1;
-}
-
 a{
 	text-decoration: none !important;
-}
-.backtab a:hover{
-	background-color:black;
-	color: white;
 }
 
 .imgspc{
@@ -206,7 +205,11 @@ a{
 	position: relative;
 	margin-bottom: 5%;
 }
-
+#github_jekylltext{
+	font-weight:bold;
+	font-size:35px;
+	text-align: center;
+}
 
 .pageadditions{
 	margin-top:5%;
@@ -252,7 +255,6 @@ footer{
 @media only screen and (max-device-width: 980px) {
 /* define mobile specific styles come here */
 #headerimage h2 {top:-100px;}
-.page-content{width:60%;}
 .About{font-size:15px;}
 
 }
@@ -287,7 +289,7 @@ footer{
 .page-content, .references{font-size: 20px;} 	
 }
 
-@media screen and (max-width : 600px){
-.post-content{width: 70%; left:-45px;}
+@media screen and (max-width : 1100px){
+.post-content{width: 90%}
 .About{width: 100%;}
 }	

@@ -11,7 +11,7 @@ title-photo-credit: Steve Igic.
 
 
 <div class="row">
-<div class="col-lg-12 imgspc"><img  src="/images/opal_peacock.jpg" width="100%" alt="Opal"/>
+<div class="col-lg-12 imgspc"><img  src="/images/opal_peacock.jpg" width="600px" alt="Opal"/>
 <p class="imgcaptions text-center"><i>Colors of opals and blue bird feathers arise from their periodically arranged nanostructures. Credit: Opal - <a href="https://en.wikipedia.org/wiki/Opal#/media/File:Coober_Pedy_Opal_Doublet.jpg">Wikipedia</a>; peacock - Steve Igic.</i></p>
 </div>
 </div>
@@ -30,7 +30,7 @@ title-photo-credit: Steve Igic.
 <p>Light is a type of electromagnetic energy and is both a particle and wave. For our purposes here, we will just think of it like a wave, oscillating up and down, up and down. The periodicity at which the wave repeats is its wavelength and this influences the "color" of light. Long wavelengths correspond to red colors and short wavelengths blue colors. For example, a red material primarily reflects long wavelengths whereas a blue material primarily reflects short wavelengths. Light coming from the sun is collection of all wavelengths that are visible to our eyes, making it appear white. A prism creates its beautiful rainbow colors by separating the different wavelengths that make up white light and projecting them into different physical space. The amplitude or height of this wave affects its intensity or brightness, where taller waves mean brighter light and shallower waves mean duller light. </p>
 
 <div class="row">
-<div class="col-lg-offset-2 col-lg-8 imgspc"><img  src="/images/princp_light.jpg" width="100%" alt="Principles of light"/>
+<div class="col-lg-offset-2 col-lg-8 imgspc"><img  src="/images/princp_light.jpg" width="600px" alt="Principles of light"/>
 <p class="imgcaptions text-center"><i>Light from the sun is a culmination of different wavelengths, where each wavelength is characterized by its own cyclical periodicity and corresponds to a different part of the visual spectrum.</i></p>
 </div>
 </div>
@@ -49,7 +49,7 @@ title-photo-credit: Steve Igic.
 <p>The color vision of birds is even more complex than our own. Birds have a fourth cone type that is most sensitive to ultra-violet or violet wavelengths. This means that some birds can see ultra-violet colors! The sensitivity range of their cone cells is also much narrower than that of our own cone cells, due to containing oil droplets that act like light filters, which means they are also better than us at distinguishing shades of similar colors (e.g. different shades of blue). </p>
 
 <div class="row">
-<div class="col-lg-offset-1 col-lg-10 imgspc"><img  src="/images/princp_vision.jpg" width="100%" alt="Principles of color vision"/>
+<div class="col-lg-offset-1 col-lg-10 imgspc"><img  src="/images/princp_vision.jpg" width="600px" alt="Principles of color vision"/>
 <p class="imgcaptions text-center"><i>Our retinas contain 3 types of color receptor (cones) that differ in their sensitivity to different wavelengths. </i></p>
 </div>
 </div>
@@ -73,7 +73,7 @@ title-photo-credit: Steve Igic.
 <p>Thin-film interference is the simplest type of structural color and is responsible for producing the beautiful colors we see on soap bubbles. In the simplest sense, the colors of soap bubbles are produced when light reflected off the outer surface of the soap layer interferes with the light reflected off the inner surface of the soap layer. Different colors are produced when the thickness of the soap layer varies across different regions of the bubble, and also when we look at the bubble from different angles. In both cases, we see different colors because light travels at different distances before it is reflected off the inner surface of the soap layer. </p>
 
 <div class="row">
-<div class="col-lg-offset-4 col-lg-4 imgspc"><img  src="/images/soap bubble.jpg" width="100%" alt="Soap bubble"/>
+<div class="col-lg-offset-4 col-lg-4 imgspc"><img  src="/images/soap bubble.jpg" width="600px" alt="Soap bubble"/>
 <p class="imgcaptions text-center"><i>A soap bubble's colors are produced by thin-film interference. Credit: <a href="https://en.wikipedia.org/wiki/Soap_bubble#/media/File:Reflection_in_a_soap_bubble_edit.jpg">Wikipedia</a></i></p>
 </div>
 </div>
@@ -88,7 +88,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 <p>If the waves of the two reflections are in-sync, they will reinforce each other and cause that particular wavelength of reflected light to be amplified. This is called <strong>constructive interference</strong>. If the waves of the two reflections are out-of-sync, then they will cancel each other out and cause that particular wavelength to be diminished. This is called <strong>destructive interference</strong>. It is the combination of wavelength specific constructive and destructive interference that causes particular colors to been seen at different regions of the soap bubble and also when we look at the bubble from different angles. </p>
 
 <div class="row">
-<div class="col-lg-offset-1 col-lg-10 imgspc"><img  src="/images/cons_destr_interference.jpg" width="100%" alt="Soap bubble"/>
+<div class="col-lg-offset-1 col-lg-10 imgspc"><img  src="/images/cons_destr_interference.jpg" width="600px" alt="Soap bubble"/>
 <p class="imgcaptions text-center"><i>Light reflected off the inner surface of the soap layer will interfere with light reflected off the outer surface, either constructively or destructively.</i></p>
 </div>
 </div>
@@ -99,7 +99,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 <div class="row">
 <div class="col-lg-offset-1 col-lg-10 imgspc">
-<img  src="/images/iri vs non.jpg" width="100%" alt="Periodic vs. semi-periodic structures"/>
+<img  src="/images/iri vs non.jpg" width="600px" alt="Periodic vs. semi-periodic structures"/>
 <p class="imgcaptions text-center"><i>Repeated elements (illustrated as black circles here) can be arranged very periodically to produce iridescent colors or semi-periodically to produce non-iridescent colors.</i></p>
 </div>
 </div>
@@ -116,7 +116,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 <div class="row">
 <div class="col-lg-offset-3 col-lg-6 imgspc">
-<img  src="/images/Feather close up.jpg" width="100%" alt="White feather"/>
+<img  src="/images/Feather close up.jpg" width="600px" alt="White feather"/>
 <p class="imgcaptions text-center"><i>Close-up of a white bird feather showing its branching structure.</i></p>
 </div>
 </div>
@@ -127,8 +127,8 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 <div class="row">
 <div class="col-lg-offset-2 col-lg-8 imgspc">
-<img  src="/images/black_black-billed magpie x7000_e.jpg" width="100%" alt="Melanosome"/>
-<p class="imgcaptions text-center"><i>A close-up of elongate melanosomes present inside the barb of a Black Billed Magpie feather.</i></p>
+<img  src="/images/black_black-billed magpie x7000_e.jpg" width="600px" alt="Melanosome"/>
+<p class="imgcaptions text-center"><i>A close-up of elongate rod-shaped melanosomes inside the barb of a Black Billed Magpie feather.</i></p>
 </div>
 </div>
 
@@ -138,7 +138,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 <div class="row">
 <div class="col-lg-offset-3 col-lg-6 imgspc">
-<img  src="/images/Melopsittacus_undulatus.jpg" width="100%" alt="Budgerigar"/>
+<img  src="/images/Melopsittacus_undulatus.jpg" width="600px" alt="Budgerigar"/>
 <p class="imgcaptions text-center"><i>Feather colors of Budgerigars are produced by pigments (yellow), structural colors (blue), or a combination of pigments and structural colors (green). Credit: <a href="https://en.wikipedia.org/wiki/Biological_pigment#/media/File:Melopsittacus_undulatus.jpg">Wikipedia</a></i></p>
 </div>
 </div>
@@ -149,18 +149,18 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 <div class="row">
 <div class="col-lg-6 imgspc">
-<img  src="/images/ordered and disordered melanosomes.jpg" width="100%" alt="Melanosomes arranged within barbules"/>
+<img  src="/images/ordered and disordered melanosomes.jpg" width="600px" alt="Melanosomes arranged within barbules"/>
 <p class="imgcaptions text-center"><i>Images of sections through feather barbules. The difference between glossy black feathers (left) and iridescent black feathers (right) is a high degree of melanosome (dark spots) organization within barbules of iridescent feathers. Image from <a href="http://rspb.royalsocietypublishing.org/content/278/1714/1973"> Maia et al. 2011</a></i></p>
 </div>
 
 <div class="col-lg-6 imgspc">
 <div class="row">
-<img  src="/images/hollow melanosome.jpg" width="100%" alt="Hollow melanosomes"/>
-<p class="imgcaptions text-center"><i>Some birds like hummingbirds have melanosomes with tiny air pockets in their barbules that increase the brightness of the iridescent colors they produce. Image of a barbule section from <a href="http://rsif.royalsocietypublishing.org/content/6/Suppl_2/S221.short"> Shawkey et al. 2009</a></i></p>
+<img  src="/images/hollow melanosome.jpg" width="600px" alt="Hollow melanosomes"/>
+<p class="imgcaptions text-center"><i>Hummingbirds have barbules that contain air-filled platelet-like melanosomes that increase the brightness of the iridescent colors they produce. Image of a barbule section from <a href="http://rsif.royalsocietypublishing.org/content/6/Suppl_2/S221.short"> Shawkey et al. 2009</a></i></p>
 </div>
 
 <div class="row">
-<img  src="/images/spongy blue.jpg" width="100%" alt="Spongy blue structures"/>
+<img  src="/images/spongy blue.jpg" width="600px" alt="Spongy blue structures"/>
 <p class="imgcaptions text-center"><i>Images of sections through blue colored feather barbs. Non-iridescent blue feather colors are produced by the semi-periodic arrangement of air pockets within a feather's barbs. Images of barb sections from <a href="http://rsif.royalsocietypublishing.org/content/early/2012/05/02/rsif.2012.0191.full"> Saranathan et al. 2012</a></i></p>
 </div>
 </div>
@@ -184,7 +184,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 <div class="brwntxt">Bird feather colors - a door to biomimicry</div>
 
-<p> No one can dispute that bird feather are extremely beautiful. Their beautiful colors and patterns have been admired for millennia. As of late, there has been a lot research interest into how feather structural color can be replicated in the manufacture of durable and bright colors and dyes. Benefits of using structural colors is that they are ore resistance to UV damage than pigments and their production may be more environmentally friendly (some pigments are quite toxic). Coloration of structural colors can also be more easily adjusted than that of pigments and their dynamic and responsive color changes may also be of particular benefit from an engineering stand-point. For example, some colleagues of mine have shown that polymers composed of artificial melanosomes can be used to make color-based humidity sensors <a href="https://www.dropbox.com/s/8yn0f7xc1tq7auq/humidity_melanin.pdf?dl=0">link.</a>. </p>
+<p> No one can dispute that bird feather are extremely beautiful. Their beautiful colors and patterns have been admired for millennia. As of late, there has been a lot research interest into how feather structural color can be replicated in the manufacture of durable and bright colors and dyes. Benefits of using structural colors is that they are ore resistance to UV damage than pigments and their production may be more environmentally friendly (some pigments are quite toxic). Coloration of structural colors can also be more easily adjusted than that of pigments and their dynamic and responsive color changes may also be of particular benefit from an engineering stand-point. For example, some colleagues of mine have shown that polymers composed of artificial melanosomes can be used to make color-based humidity sensors <a href="https://www.dropbox.com/s/8yn0f7xc1tq7auq/humidity_melanin.pdf?dl=0">link</a>. Cool huh?</p>
 
 <div class="brwntxt">Read more:</div>
 
