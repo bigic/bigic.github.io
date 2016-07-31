@@ -265,8 +265,7 @@ footer{
 /* define mobile specific styles come here */
 #headerimage h2 {top:-100px;}
 .About{font-size:15px;}
-.page-content p{font-size:18px;}
-
+.page-content p, .brwntxt, .greentxt {font-size:18px;}
 }
 
 
