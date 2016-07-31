@@ -172,7 +172,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3DiY_WXAwiQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="row"><div class="col-lg-offset-3 col-lg-6"><p class="imgcaptions text-center"><i>Iridescence of the above hummingbird is highly directional, where color are bright and conspicuous from certain angles and dark otherwise. This effect is achieved through the combination of a flat color-producing barbules and presence of melanin to absorb multiply scattered light.</i></p></div></div>
+<div class="row"><div class="col-lg-12"><p class="imgcaptions text-center"><i>Iridescence of the above hummingbird is highly directional, where color are bright and conspicuous from certain angles and dark otherwise. This effect is achieved through the combination of a flat color-producing barbules and presence of melanin to absorb multiply scattered light.</i></p></div></div>
 <br>
 
 <p>The directionality of iridescent colors is best achieved when the material producing them is a flat uniform plane, the underlying nanostructures responsible for color production are highly ordered, and the colors resulting from any disorder present are minimized. There are several potential reasons that I can suggest as to why birds produce iridescent and non-iridescent colors using different structures.</p>
