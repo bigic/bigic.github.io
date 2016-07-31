@@ -132,6 +132,10 @@
 	margin: 0 0 3% 0;
 }
 
+.post-disclaimer{
+	font-size:13px;
+	margin-bottom:1%;
+}
 
 .checkboxes{
 	cursor: pointer;
