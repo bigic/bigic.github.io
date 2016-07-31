@@ -56,7 +56,7 @@ title-photo-credit: Steve Igic.
 
 </div>
 
-<font size="5">Read more: Vorobyev M, Osorio D, Bennett AT, Marshall NJ, Cuthill IC (1998). Tetrachromacy, oil droplets and bird plumage colours. Journal of Comparative Physiology A, 183(5), 621-633.<a href="http://www.neurobiologie.fu-berlin.de/menzel/Pub_AGmenzel/VorobyevOsorio-et-al_JCompPhysiolA_1998.pdf"> link</a></font>
+Read more: Vorobyev M, Osorio D, Bennett AT, Marshall NJ, Cuthill IC (1998). Tetrachromacy, oil droplets and bird plumage colours. Journal of Comparative Physiology A, 183(5), 621-633.<a href="http://www.neurobiologie.fu-berlin.de/menzel/Pub_AGmenzel/VorobyevOsorio-et-al_JCompPhysiolA_1998.pdf"> link</a>
 </div>
 
 
