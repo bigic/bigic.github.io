@@ -1,15 +1,7 @@
 #headerimage { 
    position: relative; 
    width: 100%; /* for IE 6 */
-}
-
-#headerimage h2 { 
-   position: relative; 
-   top: -150px; 
-   padding-left:2%;
-	font-size: 40px;
-	color: white;
-	font-style: italic;   
+   margin-bottom:3%;
 }
 
 #headertext{
