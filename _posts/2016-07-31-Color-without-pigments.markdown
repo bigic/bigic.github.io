@@ -1,0 +1,200 @@
+---
+layout: post
+title:  "Beautiful colors without pigments"
+date:   2016-07-31 19:04:24 +1000
+categories: 
+image: /images/peacock.jpg
+title-photo-credit: Steve Igic.
+---
+
+<p>What do blue bird feathers and opals have in common? Neither of their beautiful colors are made by pigments. </p>
+
+
+<div class="row">
+<div class="col-lg-12 imgspc"><img  src="/images/opal_peacock.jpg" width="600px" alt="Opal"/>
+<p class="imgcaptions text-center"><i>Colors of opals and blue bird feathers arise from their periodically arranged nanostructures. Credit: Opal - <a href="https://en.wikipedia.org/wiki/Opal#/media/File:Coober_Pedy_Opal_Doublet.jpg">Wikipedia</a>; peacock - Steve Igic.</i></p>
+</div>
+</div>
+
+
+<p>Recently, I was asked to talk about my work on bird feathers, which I thought gave me a perfect opportunity to showcase how cool structural colors are. With the talk now done, I thought I’d do the same for everyone else and write a blog post about it! </p>
+
+<p>As humans we generally make our lives colorful through our use of pigments and dyes etc. Yet, birds and insects have adapted means for producing brighter, more durable, and dynamic colors using structural colors. So what are structural colors and how are they different from pigments?
+
+<p>I guess I should probably start with some basics first, like what is light and color? I’m not a physicist, nor do I study the principles of color vision, so my explanations are quite simplistic. If you know all this stuff already, feel free to skip ahead. </p>
+
+<div class="greybox">
+
+<label class="checkboxes"><input type="checkbox" name="checkLight"><span class="greentxt dropdowntitle"> What is light? </span></label>
+
+<p>Light is a type of electromagnetic energy and is both a particle and wave. For our purposes here, we will just think of it like a wave, oscillating up and down, up and down. The periodicity at which the wave repeats is its wavelength and this influences the "color" of light. Long wavelengths correspond to red colors and short wavelengths blue colors. For example, a red material primarily reflects long wavelengths whereas a blue material primarily reflects short wavelengths. Light coming from the sun is collection of all wavelengths that are visible to our eyes, making it appear white. A prism creates its beautiful rainbow colors by separating the different wavelengths that make up white light and projecting them into different physical space. The amplitude or height of this wave affects its intensity or brightness, where taller waves mean brighter light and shallower waves mean duller light. </p>
+
+<div class="row">
+<div class="col-lg-offset-2 col-lg-8 imgspc"><img  src="/images/princp_light.jpg" width="600px" alt="Principles of light"/>
+<p class="imgcaptions text-center"><i>Light from the sun is a culmination of different wavelengths, where each wavelength is characterized by its own cyclical periodicity and corresponds to a different part of the visual spectrum.</i></p>
+</div>
+</div>
+
+</div>
+
+<div class="greybox">
+
+<label class="checkboxes"><input type="checkbox" name="checkColor"><span class="greentxt dropdowntitle"> What is color? </span></label>
+<div>
+
+<p>Unlike light and its different wavelengths, color is all in our heads so to speak. Color is how our own brains see the world and is very subjective, meaning that what I see as green is likely different to what you see as green. This also means that measuring “color” is much more difficult task than measuring specific wavelengths of light, and indeed often relies on a lot of assumption about how eyes and brains work. </p>
+
+<p>We humans see color as a result of the relative activation of three different types of photoreceptor cells in our retinas, called cone cells. These three types of cone cells vary in how they react to different wavelengths of light: One is most sensitive to red light or longer wavelengths, another one is most sensitive to green light or medium wavelengths, and the last one is most sensitive to blue light or shorter wavelengths. Looking at an orange material activates most of our red cones, some of our green cones, and does not really activate our blue cones. Looking at a purple material activates our blue and red cones equally but does not really activate our green cones. A perfectly white or gray material would activate all three cone types equally. The brightness of perceived colors is influenced by how many and how intensely our cones are activated, whereas the richness or saturation of perceived colors is influenced by how much a particular sets of cone cells are activated relative to other sets: a really rich red color would only activate our red cones, whereas a washed out red color would activate some of our other cones too. Of course there are many other cells and factors involved in color perception, but the above explanation is the simplest I can provide. </p>
+
+<p>The color vision of birds is even more complex than our own. Birds have a fourth cone type that is most sensitive to ultra-violet or violet wavelengths. This means that some birds can see ultra-violet colors! The sensitivity range of their cone cells is also much narrower than that of our own cone cells, due to containing oil droplets that act like light filters, which means they are also better than us at distinguishing shades of similar colors (e.g. different shades of blue). </p>
+
+<div class="row">
+<div class="col-lg-offset-1 col-lg-10 imgspc"><img  src="/images/princp_vision.jpg" width="600px" alt="Principles of color vision"/>
+<p class="imgcaptions text-center"><i>Our retinas contain 3 types of color receptor (cones) that differ in their sensitivity to different wavelengths. </i></p>
+</div>
+</div>
+
+</div>
+
+<div>Read more: Vorobyev M, Osorio D, Bennett AT, Marshall NJ, Cuthill IC (1998). Tetrachromacy, oil droplets and bird plumage colours. Journal of Comparative Physiology A, 183(5), 621-633.<a href="http://www.neurobiologie.fu-berlin.de/menzel/Pub_AGmenzel/VorobyevOsorio-et-al_JCompPhysiolA_1998.pdf"> link</a></div>
+</div>
+
+
+<div class="greybox">
+<label class="checkboxes"><input type="checkbox" name="checkColor"><span class="greentxt dropdowntitle"> <i>Pigments</i> versus <i>Structural colors</i></span></label>
+<div>
+<div class="post-disclaimer">Disclaimer: I’ve taken an overly simplistic approach in my explanation so that it can be more easily understood. </div>
+<p>The coloration of animals is produced by pigments, structural colors, or their interaction. There’s also bio-luminescence, but I won’t go through what that is here. </p>
+
+<p>Pigments produce color by selectively absorbing specific wavelengths of light, allowing other wavelengths to be reflected and to reach our eyes. For example, a red pigment absorbs all but red wavelengths of light. A strongly absorbing pigment, like melanin, absorbs across all visible wavelengths and produces a dark brown or black appearance. </p>
+
+<p>Structural colors are not produced by chemicals compounds that absorb specific wavelengths of light, but by nanostructures that interfere with light. These structures are really tiny, close to one-billionth of a metre. </p>
+
+<p>Thin-film interference is the simplest type of structural color and is responsible for producing the beautiful colors we see on soap bubbles. In the simplest sense, the colors of soap bubbles are produced when light reflected off the outer surface of the soap layer interferes with the light reflected off the inner surface of the soap layer. Different colors are produced when the thickness of the soap layer varies across different regions of the bubble, and also when we look at the bubble from different angles. In both cases, we see different colors because light travels at different distances before it is reflected off the inner surface of the soap layer. </p>
+
+<div class="row">
+<div class="col-lg-offset-4 col-lg-4 imgspc"><img  src="/images/soap bubble.jpg" width="600px" alt="Soap bubble"/>
+<p class="imgcaptions text-center"><i>A soap bubble's colors are produced by thin-film interference. Credit: <a href="https://en.wikipedia.org/wiki/Soap_bubble#/media/File:Reflection_in_a_soap_bubble_edit.jpg">Wikipedia</a></i></p>
+</div>
+</div>
+<br>
+
+
+<p>In addition to how materials reflect light, structural colors are affected by how materials refract light. As a ray of light travels through mediums that differ in their density, its velocity changes and  
+it becomes bent. This is called refraction. We measure a medium’s ability to refract light as its refractive index. Air is not a very dense medium and does not really affect the velocity of light, so it has a refractive index of approximately 1. Liquid soap is denser than air and slows down the velocity of light that travels through it causing it to bend. Liquid soap has a refractive of approximately 1.5. The degree of refraction, or bending of light, also depends on the wavelength of light: shorter wavelengths, like blues and ultra-violets, are bent more than longer wavelength, like yellows and reds. The different ways in which different wavelengths of light are refracted is why prisms split white light into separate colors. When light hits an interface between two mediums that vary in their refractive index, part of it will be reflected and part of it will transmit through into the next medium.</p>
+
+<p>As light moves from a medium of low refractive index (such as air) to a medium of higher refractive index (such as our soap film), the reflected light also becomes phase-shifted, meaning it is brought forwards or backwards in its cyclical periodicity. That means that the light reflecting off the surface of the soap layer (light moving from air->soap) is phase-shifted but the light reflecting off the inner surface of the soap layer (light moving from soap->air is not. However, the light ray that is reflected off the inner surface of the soap layer travels a slightly greater distance than the light ray reflected on the surface, which means their respective wavelengths may be in- or out-of-phase with each other. In simple terms, the peaks and valleys of the same wavelength of the two reflected light rays will either be in-sync (in-phase) or out-of-sync (out-of-phase) with each other. </p>
+
+<p>If the waves of the two reflections are in-sync, they will reinforce each other and cause that particular wavelength of reflected light to be amplified. This is called <strong>constructive interference</strong>. If the waves of the two reflections are out-of-sync, then they will cancel each other out and cause that particular wavelength to be diminished. This is called <strong>destructive interference</strong>. It is the combination of wavelength specific constructive and destructive interference that causes particular colors to been seen at different regions of the soap bubble and also when we look at the bubble from different angles. </p>
+
+<div class="row">
+<div class="col-lg-offset-1 col-lg-10 imgspc"><img  src="/images/cons_destr_interference.jpg" width="600px" alt="Soap bubble"/>
+<p class="imgcaptions text-center"><i>Light reflected off the inner surface of the soap layer will interfere with light reflected off the outer surface, either constructively or destructively.</i></p>
+</div>
+</div>
+
+<p>This simple concept is similarly applicable when trying to understand the production of colors by more complex structures, such those that have some type of repeated element periodically arranged in 1, 2 or 3 dimensions at the nano-scale. </p>
+
+<p>As a general rule, some degree organization of these repeated nano-scale elements is required for them to produce color. This nanostructural organization may be highly periodic or only semi-periodic (referred to as quasi-order in science lingo). Highly periodic structures have what we call short-range and long-range order, meaning that the spaces between repeated elements is very consistent throughout the whole structure. These highly ordered structures produce iridescent colors. Quasi-ordered structures only have short-range order, meaning that only spaces between the closest repeated elements are consistent, and there is little spacial consistency between elements further apart. These quasi-ordered structures produce non- or weakly iridescent structural colors. </p>
+
+<div class="row">
+<div class="col-lg-offset-1 col-lg-10 imgspc">
+<img  src="/images/iri vs non.jpg" width="600px" alt="Periodic vs. semi-periodic structures"/>
+<p class="imgcaptions text-center"><i>Repeated elements (illustrated as black circles here) can be arranged very periodically to produce iridescent colors or semi-periodically to produce non-iridescent colors.</i></p>
+</div>
+</div>
+
+
+</div>
+</div>
+
+<br>
+
+<div class="brwntxt">What makes bird feathers colorful?</div>
+
+<p>Compared to the hairs of mammals, bird feathers are very complex structures. They have tiny branches (barbules) that branch off slightly larger branches (barbs) that themselves branch off a main larger stem (a rachis). This complexity is further compounded by the fact that they are extremely diverse among different body parts of a bird (the feathers on birds head and wings are very different to each other) and especially among different species. One commonality is that all bird feather are made of β-keratin, a colorless protein that is similar to the protein that makes our own skin, nails, and hair. Feathers can also contain pigments and tiny air pockets. </p>
+
+<div class="row">
+<div class="col-lg-offset-3 col-lg-6 imgspc">
+<img  src="/images/Feather close up.jpg" width="600px" alt="White feather"/>
+<p class="imgcaptions text-center"><i>Close-up of a white bird feather showing its branching structure.</i></p>
+</div>
+</div>
+
+<p>Bird feather colors are produced by pigments, structural colors, or a combination of both pigments and structural colors.</p>
+
+<p>A number of different pigments have been discovered in bird feathers, but the pigments most often present are either <strong>carotenoids</strong> or <strong>melanins</strong>. Carotenoids are the same pigments that give fruits and vegetables their color, whereas melanins are the same pigments that color our skin and hair. Carotenoids generally produce the red and yellow colors of feathers and are acquired from a bird's diet. Melanins produce the rufous, gray, brown and black feather colors and are made by a bird's own cells. Pigments are often deposited as granules within bird feathers, and in the case of melanins, they are deposited into nano-sized structures (or organelles) called <strong>melanosomes</strong>. As we’ll discuss below, despite containing pigment, melanosomes are one of the main components of structural color production in bird feathers (well, in most cases anyway).</p>
+
+<div class="row">
+<div class="col-lg-offset-2 col-lg-8 imgspc">
+<img  src="/images/black_black-billed magpie x7000_e.jpg" width="600px" alt="Melanosome"/>
+<p class="imgcaptions text-center"><i>A close-up of elongate rod-shaped melanosomes inside the barb of a Black Billed Magpie feather.</i></p>
+</div>
+</div>
+
+<p>As with pigments, structural colors are also common in bird feathers. Structurally colored bird feathers can be either <strong>iridescent</strong> or <strong>non-iridescent</strong>. Iridescent feather colors change when they are viewed from different angles under natural light conditions, whereas non-iridescent colors remain constant no matter which angle they are observed from under natural light conditions, kind of like colors produced by pigments. </p>
+
+<p>Pigments and structural colors can also be present together to produce specific colors. Most non-iridescent green feather colors are produced by a mixture of blue structural colors and yellow pigments, similarly to how blue and yellow paint makes green paint. An exception to this is <a href="https://en.wikipedia.org/wiki/Turacoverdin">turacoverdin</a>, a rare pigment that produces green coloration without a structural component. </p>
+
+<div class="row">
+<div class="col-lg-offset-3 col-lg-6 imgspc">
+<img  src="/images/Melopsittacus_undulatus.jpg" width="600px" alt="Budgerigar"/>
+<p class="imgcaptions text-center"><i>Feather colors of Budgerigars are produced by pigments (yellow), structural colors (blue), or a combination of pigments and structural colors (green). Credit: <a href="https://en.wikipedia.org/wiki/Biological_pigment#/media/File:Melopsittacus_undulatus.jpg">Wikipedia</a></i></p>
+</div>
+</div>
+
+<div class="brwntxt">Iridescent and non-iridescent feather structural colors are produced differently </div>
+
+<p>Iridescent and non-iridescent structural colors of feathers are produced differently. <strong>Iridescent colors are produced by very organized arrangements of melanosomes within feather barbules, whereas non-iridescent colors are produced by semi-organized air pockets within feather barbs </strong>. Furthermore, iridescent feathers colors can span the full spectrum of bird visible colors (from reds to ultra-violets), but non-iridescent structural colors usually produce only the blue and ultra-violet colors of feathers (perhaps also some pink and purple colors too). Although non-iridescent colors are produced by the tiny air pockets in feather barbs, they still require the presence of melanosomes on the underside of barbs to produce visible color. They would otherwise appear white. This is why virtually all blue bird feathers look black on their underside. </p>
+
+<div class="row">
+<div class="col-lg-6 imgspc">
+<img  src="/images/ordered and disordered melanosomes.jpg" width="600px" alt="Melanosomes arranged within barbules"/>
+<p class="imgcaptions text-center"><i>Images of sections through feather barbules. The difference between glossy black feathers (left) and iridescent black feathers (right) is a high degree of melanosome (dark spots) organization within barbules of iridescent feathers. Image from <a href="http://rspb.royalsocietypublishing.org/content/278/1714/1973"> Maia et al. 2011</a></i></p>
+</div>
+
+<div class="col-lg-6 imgspc">
+<div class="row">
+<img  src="/images/hollow melanosome.jpg" width="600px" alt="Hollow melanosomes"/>
+<p class="imgcaptions text-center"><i>Hummingbirds have barbules that contain air-filled platelet-like melanosomes that increase the brightness of the iridescent colors they produce. Image of a barbule section from <a href="http://rsif.royalsocietypublishing.org/content/6/Suppl_2/S221.short"> Shawkey et al. 2009</a></i></p>
+</div>
+
+<div class="row">
+<img  src="/images/spongy blue.jpg" width="600px" alt="Spongy blue structures"/>
+<p class="imgcaptions text-center"><i>Images of sections through blue colored feather barbs. Non-iridescent blue feather colors are produced by the semi-periodic arrangement of air pockets within a feather's barbs. Images of barb sections from <a href="http://rsif.royalsocietypublishing.org/content/early/2012/05/02/rsif.2012.0191.full"> Saranathan et al. 2012</a></i></p>
+</div>
+</div>
+</div>
+
+<p>Iridescent colors are very directional signals, meaning that color is only seen from particular angles or that specific colors are seen from specific angles; it is this directionality that is advantageous and important for function. Iridescence may allow an individual to direct their bright color signals only towards their intended audience to minimize the chance that a predator sees them. Alternatively, it may be the bright and flashy color changes that are appealing to a prospective mate or are better at capturing a mate's attention. Non-iridescent color is a signal the appears the same no matter which angle it is seen from and this makes it more easily detected from a greater range of directions. </p>
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3DiY_WXAwiQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="row"><div class="col-lg-offset-3 col-lg-6"><p class="imgcaptions text-center"><i>Iridescence of the above hummingbird is highly directional, where color are bright and conspicuous from certain angles and dark otherwise. This effect is achieved through the combination of a flat color-producing barbules and presence of melanin to absorb multiply scattered light.</i></p></div></div>
+<br>
+
+<p>The directionality of iridescent colors is best achieved when the material producing them is a flat uniform plane, the underlying nanostructures responsible for color production are highly ordered, and the colors resulting from any disorder present are minimized. There are several potential reasons that I can suggest as to why birds produce iridescent and non-iridescent colors using different structures.</p>
+
+ <p>1. A flat structure increases the directionality of iridescence effects. Due to their interlocking mechanism, barbules can more easily make a flat uniform plane than can barbs -- just think of feather’s vane structure, which is produced by the interlocking of barbules. Barbs are often roundish and are too sparsely situated to make a flat uniform plane. This roundness makes barbs ideal for creating non-iridescent colors: a round object appears more uniform when observed from different angles than does a flat plane. Some birds have, however, adapted flatter barbs to achieve similar iridescent effects.</p>
+ 
+ <p>2. For color change to be visible under natural conditions, the underlying nanostructures needs to be highly organized. It may be physiologically more difficult for feather cells to make such highly organized structures using air pockets, whereas organizing melanosomes may be easier. This is an interesting idea yet to be tested.</p>
+
+ <p>3. For a semi-organized nanostructure to be able to produce visible color, the whole material may be required to be of sufficient thickness. Barbules may simply be too thin to contain enough of the tiny air gaps that are necessary for them to produce visible non-iridescent colors.
+ 
+ <p>4. Perfectly ordered structures are almost impossible to make (even with melanosomes). This means that there will always be presence of some disorder that in turn washes out the colors being produced. In physics terms, this washing out is due to incoherent scattering of light -- when incoherent light is dominant, a material appears white. The advantage of using melanosomes as the periodically repeated elements when producing iridescent colors is that they also act like pigments, absorbing this incoherently scattered light to produce richer colors. Melanosomes are also why highly iridescent feathers often appear dark when observed from particular angles (as in the hummingbird video above). However, if birds were to use semi-organized melanosome arrangements to produce non-iridescent colors, the melanosomes would probably absorb too much light to allow any color to be produced. Instead, when producing non-iridescent colors, bird include enough melanosomes on the underside of their feathers to act as a black backing to make colors richer, but not too much to absorb all color that is being produced.</p>
+
+<div class="brwntxt">Bird feather colors - a door to biomimicry</div>
+
+<p> No one can dispute that bird feather are extremely beautiful. Their beautiful colors and patterns have been admired for millennia. As of late, there has been a lot research interest into how feather structural color can be replicated in the manufacture of durable and bright colors and dyes. Benefits of using structural colors is that they are ore resistance to UV damage than pigments and their production may be more environmentally friendly (some pigments are quite toxic). Coloration of structural colors can also be more easily adjusted than that of pigments and their dynamic and responsive color changes may also be of particular benefit from an engineering stand-point. For example, some colleagues of mine have shown that polymers composed of artificial melanosomes can be used to make color-based humidity sensors <a href="https://www.dropbox.com/s/8yn0f7xc1tq7auq/humidity_melanin.pdf?dl=0">link</a>. Cool huh?</p>
+
+<div class="brwntxt">Read more:</div>
+
+<ul class="references">D’Alba L, Kieffer L, Shawkey MD (2012). Relative contributions of pigments and biophotonic nanostructures to natural color production: a case study in budgerigar (<i>Melopsittacus undulatus</i>) feathers. Journal of Experimental Biology, 215(8), 1272-1277. <a href="http://jeb.biologists.org/content/jexbio/215/8/1272.full.pdf">link</a></ul>
+
+<ul class="references">Maia R, D'Alba L, Shawkey MD (2010). What makes a feather shine? A nanostructural basis for glossy black colours in feathers. Proceedings of the Royal Society of London B: Biological Sciences, rspb20101637.<a href="http://rspb.royalsocietypublishing.org/content/early/2010/11/30/rspb.2010.1637.short">link</a></ul>
+
+<ul class="references">Saranathan V, Forster JD, Noh H, Liew SF, Mochrie SG, Cao H, Dufresne ER, Prum RO. (2012). Structure and optical function of amorphous photonic nanostructures from avian feather barbs: a comparative small angle X-ray scattering (SAXS) analysis of 230 bird species. Journal of The Royal Society Interface, rsif20120191. <a href="http://rsif.royalsocietypublishing.org/content/early/2012/05/02/rsif.2012.0191.full">link</a></ul>
+
+<ul class="references">Stavenga DG, Tinbergen J, Leertouwer HL, Wilts BD (2011). Kingfisher feathers–colouration by pigments, spongy nanostructures and thin films. Journal of Experimental Biology, 214(23), 3960-3967. <a href="http://jeb.biologists.org/content/214/23/3960.long">link</a></ul>
