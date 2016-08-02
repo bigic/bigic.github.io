@@ -7,8 +7,8 @@
 </description>
     <link>http://www.tinybrownbird.com//</link>
     <atom:link href="http://www.tinybrownbird.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Jul 2016 14:00:14 +1000</pubDate>
-    <lastBuildDate>Sun, 31 Jul 2016 14:00:14 +1000</lastBuildDate>
+    <pubDate>Sun, 31 Jul 2016 20:52:00 +1000</pubDate>
+    <lastBuildDate>Sun, 31 Jul 2016 20:52:00 +1000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -16,7 +16,7 @@
         <description>&lt;p&gt;What do blue bird feathers and opals have in common? Neither of their beautiful colors are made by pigments. &lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-lg-12 imgspc&quot;&gt;&lt;img src=&quot;/images/opal_peacock.jpg&quot; width=&quot;100%&quot; alt=&quot;Opal&quot; /&gt;
+&lt;div class=&quot;col-lg-12 imgspc&quot;&gt;&lt;img src=&quot;/images/opal_peacock.jpg&quot; width=&quot;600px&quot; alt=&quot;Opal&quot; /&gt;
 &lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Colors of opals and blue bird feathers arise from their periodically arranged nanostructures. Credit: Opal - &lt;a href=&quot;https://en.wikipedia.org/wiki/Opal#/media/File:Coober_Pedy_Opal_Doublet.jpg&quot;&gt;Wikipedia&lt;/a&gt;; peacock - Steve Igic.&lt;/i&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -34,7 +34,7 @@
 &lt;p&gt;Light is a type of electromagnetic energy and is both a particle and wave. For our purposes here, we will just think of it like a wave, oscillating up and down, up and down. The periodicity at which the wave repeats is its wavelength and this influences the &quot;color&quot; of light. Long wavelengths correspond to red colors and short wavelengths blue colors. For example, a red material primarily reflects long wavelengths whereas a blue material primarily reflects short wavelengths. Light coming from the sun is collection of all wavelengths that are visible to our eyes, making it appear white. A prism creates its beautiful rainbow colors by separating the different wavelengths that make up white light and projecting them into different physical space. The amplitude or height of this wave affects its intensity or brightness, where taller waves mean brighter light and shallower waves mean duller light. &lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-lg-offset-2 col-lg-8 imgspc&quot;&gt;&lt;img src=&quot;/images/princp_light.jpg&quot; width=&quot;100%&quot; alt=&quot;Principles of light&quot; /&gt;
+&lt;div class=&quot;col-lg-offset-2 col-lg-8 imgspc&quot;&gt;&lt;img src=&quot;/images/princp_light.jpg&quot; width=&quot;600px&quot; alt=&quot;Principles of light&quot; /&gt;
 &lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Light from the sun is a culmination of different wavelengths, where each wavelength is characterized by its own cyclical periodicity and corresponds to a different part of the visual spectrum.&lt;/i&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -53,21 +53,21 @@
 &lt;p&gt;The color vision of birds is even more complex than our own. Birds have a fourth cone type that is most sensitive to ultra-violet or violet wavelengths. This means that some birds can see ultra-violet colors! The sensitivity range of their cone cells is also much narrower than that of our own cone cells, due to containing oil droplets that act like light filters, which means they are also better than us at distinguishing shades of similar colors (e.g. different shades of blue). &lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-lg-offset-1 col-lg-10 imgspc&quot;&gt;&lt;img src=&quot;/images/princp_vision.jpg&quot; width=&quot;100%&quot; alt=&quot;Principles of color vision&quot; /&gt;
+&lt;div class=&quot;col-lg-offset-1 col-lg-10 imgspc&quot;&gt;&lt;img src=&quot;/images/princp_vision.jpg&quot; width=&quot;600px&quot; alt=&quot;Principles of color vision&quot; /&gt;
 &lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Our retinas contain 3 types of color receptor (cones) that differ in their sensitivity to different wavelengths. &lt;/i&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;/div&gt;
 
-&lt;font size=&quot;5&quot;&gt;Read more: Vorobyev M, Osorio D, Bennett AT, Marshall NJ, Cuthill IC (1998). Tetrachromacy, oil droplets and bird plumage colours. Journal of Comparative Physiology A, 183(5), 621-633.&lt;a href=&quot;http://www.neurobiologie.fu-berlin.de/menzel/Pub_AGmenzel/VorobyevOsorio-et-al_JCompPhysiolA_1998.pdf&quot;&gt; link&lt;/a&gt;&lt;/font&gt;
+&lt;div&gt;Read more: Vorobyev M, Osorio D, Bennett AT, Marshall NJ, Cuthill IC (1998). Tetrachromacy, oil droplets and bird plumage colours. Journal of Comparative Physiology A, 183(5), 621-633.&lt;a href=&quot;http://www.neurobiologie.fu-berlin.de/menzel/Pub_AGmenzel/VorobyevOsorio-et-al_JCompPhysiolA_1998.pdf&quot;&gt; link&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 
 &lt;div class=&quot;greybox&quot;&gt;
 &lt;label class=&quot;checkboxes&quot;&gt;&lt;input type=&quot;checkbox&quot; name=&quot;checkColor&quot; /&gt;&lt;span class=&quot;greentxt dropdowntitle&quot;&gt; &lt;i&gt;Pigments&lt;/i&gt; versus &lt;i&gt;Structural colors&lt;/i&gt;&lt;/span&gt;&lt;/label&gt;
 &lt;div&gt;
-&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Disclaimer: I’ve taken an overly simplistic approach in my explanation so that it can be more easily understood. &lt;/font&gt;&lt;/div&gt;
+&lt;div class=&quot;post-disclaimer&quot;&gt;Disclaimer: I’ve taken an overly simplistic approach in my explanation so that it can be more easily understood. &lt;/div&gt;
 &lt;p&gt;The coloration of animals is produced by pigments, structural colors, or their interaction. There’s also bio-luminescence, but I won’t go through what that is here. &lt;/p&gt;
 
 &lt;p&gt;Pigments produce color by selectively absorbing specific wavelengths of light, allowing other wavelengths to be reflected and to reach our eyes. For example, a red pigment absorbs all but red wavelengths of light. A strongly absorbing pigment, like melanin, absorbs across all visible wavelengths and produces a dark brown or black appearance. &lt;/p&gt;
@@ -77,7 +77,7 @@
 &lt;p&gt;Thin-film interference is the simplest type of structural color and is responsible for producing the beautiful colors we see on soap bubbles. In the simplest sense, the colors of soap bubbles are produced when light reflected off the outer surface of the soap layer interferes with the light reflected off the inner surface of the soap layer. Different colors are produced when the thickness of the soap layer varies across different regions of the bubble, and also when we look at the bubble from different angles. In both cases, we see different colors because light travels at different distances before it is reflected off the inner surface of the soap layer. &lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-lg-offset-4 col-lg-4 imgspc&quot;&gt;&lt;img src=&quot;/images/soap bubble.jpg&quot; width=&quot;100%&quot; alt=&quot;Soap bubble&quot; /&gt;
+&lt;div class=&quot;col-lg-offset-4 col-lg-4 imgspc&quot;&gt;&lt;img src=&quot;/images/soap bubble.jpg&quot; width=&quot;600px&quot; alt=&quot;Soap bubble&quot; /&gt;
 &lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;A soap bubble&#39;s colors are produced by thin-film interference. Credit: &lt;a href=&quot;https://en.wikipedia.org/wiki/Soap_bubble#/media/File:Reflection_in_a_soap_bubble_edit.jpg&quot;&gt;Wikipedia&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -92,7 +92,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 &lt;p&gt;If the waves of the two reflections are in-sync, they will reinforce each other and cause that particular wavelength of reflected light to be amplified. This is called &lt;strong&gt;constructive interference&lt;/strong&gt;. If the waves of the two reflections are out-of-sync, then they will cancel each other out and cause that particular wavelength to be diminished. This is called &lt;strong&gt;destructive interference&lt;/strong&gt;. It is the combination of wavelength specific constructive and destructive interference that causes particular colors to been seen at different regions of the soap bubble and also when we look at the bubble from different angles. &lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-lg-offset-1 col-lg-10 imgspc&quot;&gt;&lt;img src=&quot;/images/cons_destr_interference.jpg&quot; width=&quot;100%&quot; alt=&quot;Soap bubble&quot; /&gt;
+&lt;div class=&quot;col-lg-offset-1 col-lg-10 imgspc&quot;&gt;&lt;img src=&quot;/images/cons_destr_interference.jpg&quot; width=&quot;600px&quot; alt=&quot;Soap bubble&quot; /&gt;
 &lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Light reflected off the inner surface of the soap layer will interfere with light reflected off the outer surface, either constructively or destructively.&lt;/i&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -103,7 +103,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;col-lg-offset-1 col-lg-10 imgspc&quot;&gt;
-&lt;img src=&quot;/images/iri vs non.jpg&quot; width=&quot;100%&quot; alt=&quot;Periodic vs. semi-periodic structures&quot; /&gt;
+&lt;img src=&quot;/images/iri vs non.jpg&quot; width=&quot;600px&quot; alt=&quot;Periodic vs. semi-periodic structures&quot; /&gt;
 &lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Repeated elements (illustrated as black circles here) can be arranged very periodically to produce iridescent colors or semi-periodically to produce non-iridescent colors.&lt;/i&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -120,7 +120,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;col-lg-offset-3 col-lg-6 imgspc&quot;&gt;
-&lt;img src=&quot;/images/Feather close up.jpg&quot; width=&quot;100%&quot; alt=&quot;White feather&quot; /&gt;
+&lt;img src=&quot;/images/Feather close up.jpg&quot; width=&quot;600px&quot; alt=&quot;White feather&quot; /&gt;
 &lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Close-up of a white bird feather showing its branching structure.&lt;/i&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -131,8 +131,8 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;col-lg-offset-2 col-lg-8 imgspc&quot;&gt;
-&lt;img src=&quot;/images/black_black-billed magpie x7000_e.jpg&quot; width=&quot;100%&quot; alt=&quot;Melanosome&quot; /&gt;
-&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;A close-up of elongate melanosomes present inside the barb of a Black Billed Magpie feather.&lt;/i&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/black_black-billed magpie x7000_e.jpg&quot; width=&quot;600px&quot; alt=&quot;Melanosome&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;A close-up of elongate rod-shaped melanosomes inside the barb of a Black Billed Magpie feather.&lt;/i&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -142,7 +142,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;col-lg-offset-3 col-lg-6 imgspc&quot;&gt;
-&lt;img src=&quot;/images/Melopsittacus_undulatus.jpg&quot; width=&quot;100%&quot; alt=&quot;Budgerigar&quot; /&gt;
+&lt;img src=&quot;/images/Melopsittacus_undulatus.jpg&quot; width=&quot;600px&quot; alt=&quot;Budgerigar&quot; /&gt;
 &lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Feather colors of Budgerigars are produced by pigments (yellow), structural colors (blue), or a combination of pigments and structural colors (green). Credit: &lt;a href=&quot;https://en.wikipedia.org/wiki/Biological_pigment#/media/File:Melopsittacus_undulatus.jpg&quot;&gt;Wikipedia&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -153,18 +153,18 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;col-lg-6 imgspc&quot;&gt;
-&lt;img src=&quot;/images/ordered and disordered melanosomes.jpg&quot; width=&quot;100%&quot; alt=&quot;Melanosomes arranged within barbules&quot; /&gt;
+&lt;img src=&quot;/images/ordered and disordered melanosomes.jpg&quot; width=&quot;600px&quot; alt=&quot;Melanosomes arranged within barbules&quot; /&gt;
 &lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Images of sections through feather barbules. The difference between glossy black feathers (left) and iridescent black feathers (right) is a high degree of melanosome (dark spots) organization within barbules of iridescent feathers. Image from &lt;a href=&quot;http://rspb.royalsocietypublishing.org/content/278/1714/1973&quot;&gt; Maia et al. 2011&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;col-lg-6 imgspc&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;img src=&quot;/images/hollow melanosome.jpg&quot; width=&quot;100%&quot; alt=&quot;Hollow melanosomes&quot; /&gt;
-&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Some birds like hummingbirds have melanosomes with tiny air pockets in their barbules that increase the brightness of the iridescent colors they produce. Image of a barbule section from &lt;a href=&quot;http://rsif.royalsocietypublishing.org/content/6/Suppl_2/S221.short&quot;&gt; Shawkey et al. 2009&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/hollow melanosome.jpg&quot; width=&quot;600px&quot; alt=&quot;Hollow melanosomes&quot; /&gt;
+&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Hummingbirds have barbules that contain air-filled platelet-like melanosomes that increase the brightness of the iridescent colors they produce. Image of a barbule section from &lt;a href=&quot;http://rsif.royalsocietypublishing.org/content/6/Suppl_2/S221.short&quot;&gt; Shawkey et al. 2009&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-&lt;img src=&quot;/images/spongy blue.jpg&quot; width=&quot;100%&quot; alt=&quot;Spongy blue structures&quot; /&gt;
+&lt;img src=&quot;/images/spongy blue.jpg&quot; width=&quot;600px&quot; alt=&quot;Spongy blue structures&quot; /&gt;
 &lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Images of sections through blue colored feather barbs. Non-iridescent blue feather colors are produced by the semi-periodic arrangement of air pockets within a feather&#39;s barbs. Images of barb sections from &lt;a href=&quot;http://rsif.royalsocietypublishing.org/content/early/2012/05/02/rsif.2012.0191.full&quot;&gt; Saranathan et al. 2012&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -172,8 +172,11 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 &lt;p&gt;Iridescent colors are very directional signals, meaning that color is only seen from particular angles or that specific colors are seen from specific angles; it is this directionality that is advantageous and important for function. Iridescence may allow an individual to direct their bright color signals only towards their intended audience to minimize the chance that a predator sees them. Alternatively, it may be the bright and flashy color changes that are appealing to a prospective mate or are better at capturing a mate&#39;s attention. Non-iridescent color is a signal the appears the same no matter which angle it is seen from and this makes it more easily detected from a greater range of directions. &lt;/p&gt;
 
+&lt;div class=&quot;videoWrapper&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3DiY_WXAwiQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-lg-offset-3 col-lg-6&quot;&gt;&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Iridescence of the above hummingbird is highly directional, where color are bright and conspicuous from certain angles and dark otherwise. This effect is achieved through the combination of a flat color-producing barbules and presence of melanin to absorb multiply scattered light.&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-lg-12&quot;&gt;&lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Iridescence of the above hummingbird is highly directional, where color are bright and conspicuous from certain angles and dark otherwise. This effect is achieved through the combination of a flat color-producing barbules and presence of melanin to absorb multiply scattered light.&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;br /&gt;
 
 &lt;p&gt;The directionality of iridescent colors is best achieved when the material producing them is a flat uniform plane, the underlying nanostructures responsible for color production are highly ordered, and the colors resulting from any disorder present are minimized. There are several potential reasons that I can suggest as to why birds produce iridescent and non-iridescent colors using different structures.&lt;/p&gt;
@@ -188,7 +191,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 &lt;div class=&quot;brwntxt&quot;&gt;Bird feather colors - a door to biomimicry&lt;/div&gt;
 
-&lt;p&gt; No one can dispute that bird feather are extremely beautiful. Their beautiful colors and patterns have been admired for millennia. As of late, there has been a lot research interest into how feather structural color can be replicated in the manufacture of durable and bright colors and dyes. Benefits of using structural colors is that they are ore resistance to UV damage than pigments and their production may be more environmentally friendly (some pigments are quite toxic). Coloration of structural colors can also be more easily adjusted than that of pigments and their dynamic and responsive color changes may also be of particular benefit from an engineering stand-point. For example, some colleagues of mine have shown that polymers composed of artificial melanosomes can be used to make color-based humidity sensors &lt;a href=&quot;https://www.dropbox.com/s/8yn0f7xc1tq7auq/humidity_melanin.pdf?dl=0&quot;&gt;link.&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt; No one can dispute that bird feather are extremely beautiful. Their beautiful colors and patterns have been admired for millennia. As of late, there has been a lot research interest into how feather structural color can be replicated in the manufacture of durable and bright colors and dyes. Benefits of using structural colors is that they are ore resistance to UV damage than pigments and their production may be more environmentally friendly (some pigments are quite toxic). Coloration of structural colors can also be more easily adjusted than that of pigments and their dynamic and responsive color changes may also be of particular benefit from an engineering stand-point. For example, some colleagues of mine have shown that polymers composed of artificial melanosomes can be used to make color-based humidity sensors &lt;a href=&quot;https://www.dropbox.com/s/8yn0f7xc1tq7auq/humidity_melanin.pdf?dl=0&quot;&gt;link&lt;/a&gt;. Cool huh?&lt;/p&gt;
 
 &lt;div class=&quot;brwntxt&quot;&gt;Read more:&lt;/div&gt;
 
@@ -201,9 +204,9 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 &lt;ul class=&quot;references&quot;&gt;Stavenga DG, Tinbergen J, Leertouwer HL, Wilts BD (2011). Kingfisher feathers–colouration by pigments, spongy nanostructures and thin films. Journal of Experimental Biology, 214(23), 3960-3967. &lt;a href=&quot;http://jeb.biologists.org/content/214/23/3960.long&quot;&gt;link&lt;/a&gt;&lt;/ul&gt;
 &lt;/p&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 30 Jul 2016 12:56:24 +1000</pubDate>
-        <link>http://www.tinybrownbird.com//2016/07/30/Color-without-pigments.html</link>
-        <guid isPermaLink="true">http://www.tinybrownbird.com//2016/07/30/Color-without-pigments.html</guid>
+        <pubDate>Sun, 31 Jul 2016 19:04:24 +1000</pubDate>
+        <link>http://www.tinybrownbird.com//2016/07/31/Color-without-pigments.html</link>
+        <guid isPermaLink="true">http://www.tinybrownbird.com//2016/07/31/Color-without-pigments.html</guid>
         
         
       </item>
@@ -224,9 +227,9 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 
 &lt;div class=&quot;container-fluid&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-lg-6 imgspc&quot;&gt;&lt;img src=&quot;/images/Greattit_crow.jpg&quot; width=&quot;100%&quot; alt=&quot;Japanese great tit&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;col-lg-6 imgspc&quot;&gt;&lt;img src=&quot;/images/Greattit_snake.jpg&quot; width=&quot;100%&quot; alt=&quot;Japanese great tit&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;col-lg-offset-3 col-lg-6 imgspc&quot;&gt;&lt;img src=&quot;/images/Greattit_marten.jpg&quot; width=&quot;100%&quot; alt=&quot;Japanese great tit&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-lg-6 imgspc&quot;&gt;&lt;img src=&quot;/images/Greattit_crow.jpg&quot; width=&quot;600px&quot; alt=&quot;Japanese great tit&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-lg-6 imgspc&quot;&gt;&lt;img src=&quot;/images/Greattit_snake.jpg&quot; width=&quot;600px&quot; alt=&quot;Japanese great tit&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-lg-offset-3 col-lg-6 imgspc&quot;&gt;&lt;img src=&quot;/images/Greattit_marten.jpg&quot; width=&quot;600px&quot; alt=&quot;Japanese great tit&quot; /&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;col-lg-12&quot;&gt;
 &lt;p class=&quot;imgcaptions text-center&quot;&gt;&lt;i&gt;Japanese great tits use different alarm calls to different predators&lt;/i&gt;&lt;/p&gt;
@@ -240,7 +243,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 &lt;p&gt;My colleagues and I tested this second idea using small Australian birds called superb fairy-wrens as our test subjects. Fairy-wrens are small birds that usually feed on the ground and in the open. They are very good at recognizing and responding to familiar species’ alarm calls as well as unfamiliar species’ alarm calls if those said alarms sound similar to a fairy-wren alarm. We conducted an experiment to test if we could teach fairy-wrens to recognize “new” types of alarm calls. In our experiment, we designed and broadcast two “new” types of alarm calls to wild fairy-wrens. Each “new” alarm call was broadcast either in combination with a fake gliding sparrow-hawk or alone. Although fairy-wrens initially ignored both calls, after hearing either type of call broadcast in combination with our gliding hawk a few times, they began treating the call like an aerial alarm call. On the other hand, they ignored the call that was not broadcast together with a gliding hawk, showing they had learnt to recognize the “new” alarm call by associating it with the hawk.&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-lg-offset-2 col-lg-8 imgspc&quot;&gt;&lt;img src=&quot;/images/Male FW.jpg&quot; width=&quot;100%&quot; alt=&quot;Fairywren&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;col-lg-offset-2 col-lg-8 imgspc&quot;&gt;&lt;img src=&quot;/images/Male FW.jpg&quot; width=&quot;600px&quot; alt=&quot;Fairywren&quot; /&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;col-lg-12&quot;&gt;

@@ -63,7 +63,7 @@ title-photo-credit: Steve Igic.
 <div class="greybox">
 <label class="checkboxes"><input type="checkbox" name="checkColor"><span class="greentxt dropdowntitle"> <i>Pigments</i> versus <i>Structural colors</i></span></label>
 <div>
-<div class="post-disclaimer">Disclaimer: I’ve taken an overly simplistic approach in my explanation so that it can be more easily understood. </div>
+<div class="post-disclaimer">Disclaimer: I’ve taken a simplistic approach in my explanation so that it can be more easily understood. </div>
 <p>The coloration of animals is produced by pigments, structural colors, or their interaction. There’s also bio-luminescence, but I won’t go through what that is here. </p>
 
 <p>Pigments produce color by selectively absorbing specific wavelengths of light, allowing other wavelengths to be reflected and to reach our eyes. For example, a red pigment absorbs all but red wavelengths of light. A strongly absorbing pigment, like melanin, absorbs across all visible wavelengths and produces a dark brown or black appearance. </p>
@@ -93,7 +93,7 @@ it becomes bent. This is called refraction. We measure a medium’s ability to r
 </div>
 </div>
 
-<p>This simple concept is similarly applicable when trying to understand the production of colors by more complex structures, such those that have some type of repeated element periodically arranged in 1, 2 or 3 dimensions at the nano-scale. </p>
+<p>This simple concept is similarly applicable when trying to understand the production of colors by more complex structures, such those that have some type of repeated element periodically arranged in 2 or 3 dimensions at the nano-scale. </p>
 
 <p>As a general rule, some degree organization of these repeated nano-scale elements is required for them to produce color. This nanostructural organization may be highly periodic or only semi-periodic (referred to as quasi-order in science lingo). Highly periodic structures have what we call short-range and long-range order, meaning that the spaces between repeated elements is very consistent throughout the whole structure. These highly ordered structures produce iridescent colors. Quasi-ordered structures only have short-range order, meaning that only spaces between the closest repeated elements are consistent, and there is little spacial consistency between elements further apart. These quasi-ordered structures produce non- or weakly iridescent structural colors. </p>
 
