@@ -333,7 +333,7 @@ footer{
 
 
 @media screen and (max-width : 700px){	
-#headertext_thin p{top: 10px;}
+#headertext_thin p{top: 15px;}
 #headertextcontainer{top:3%;}
 #headerimage h2 {font-size:20px; top: -50px;}
 .page-content, .references{font-size: 20px;}
