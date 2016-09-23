@@ -291,7 +291,7 @@ footer{
 
 @media screen and (max-width : 1500px){
 #headertextcontainer{width:90%; height:1px; position:absolute; top:5%;}	
-#headertext p{position: absolute; left:5px; z-index:100;}	
+#headertext_thin p{position: absolute; left:5px; z-index:100;}	
 }
 
 @media screen and (max-width : 1100px){
@@ -307,13 +307,12 @@ footer{
 .post-title{font-size:20px;}
 .post-meta{font-size:15px;}
 .post-hometab, .homepage-tab{font-size: 18px; padding-right: 2%;}
-#headertext_thin p{font-size: 20px;}
+#headertext_thin span{font-size: 20px;}
 }
 
 
 @media screen and (max-width : 950px){
-.postgallery a, .postdates{font-size:20px;} 
-
+.postgallery a, .postdates{font-size:20px;}
 }
 
 @media screen and (max-width : 768px){
@@ -334,10 +333,11 @@ footer{
 
 
 @media screen and (max-width : 700px){	
-#headertext p{font-size:20px; left:-5px;border-radius: 10px 10px 10px 10px;padding: 1px 10px 1px 10px; border: 2px solid white;}
+#headertext_thin p{top: 10px;}
 #headertextcontainer{top:3%;}
 #headerimage h2 {font-size:20px; top: -50px;}
 .page-content, .references{font-size: 20px;}
 #headertext_thin img{display:none;}
+#headertext_thin span{font-size: 20px;} 
 }
 
